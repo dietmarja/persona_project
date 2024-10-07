@@ -1,13 +1,3 @@
-expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience 
-Journalist specialised on Technology, moderator, IT, f,40,sailing,inclusive,advanced,0
-Professor of AI, participant, Computer Science, m, 40,reading, NA,superior,0
-Machine Learning Engineer, participant, NA, m, 40, reading, NA,superior,0
-AI Software Developer, participant, NA, m, 40, reading, NA,superior,0
-Data Scientist, participant, NA, m, 40, reading, NA,superior,0
-AI Ethicist, maverick, NA, m, 40, reading, NA,advanced,0
-Electrical Engineer, participant, NA, m, 40, reading, NA,superior,0
-Business Intelligence Analyst, participant, NA, m, 40, reading, NA,advanced,0
-Digital Marketing Specialist, participant, NA, m, 40, reading, NA,advanced,0
-Customer Service Representative, participant, NA, m, 40, reading, NA,low,0
-Lorry Driver, participant, NA, m, 40, reading, NA,low,0
-No Persona, participant, NA, NA, NA, NA, NA,advanced,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:618270fd672c0bb20927681df0c44e1850553684dd4a2cea3361f44cbe5a36b7
+size 929

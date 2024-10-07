@@ -1,7 +1,3 @@
-expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience
-Journalist specialised on Technology,moderator, NA, NA,NA,NA,NA,NA,NA
-Natural Language Processing Engineer,participant, NA, NA,NA,NA,NA,NA,NA
-no persona,participant, NA, NA,NA,NA,NA,NA,NA
-Event Manager,participant, NA, NA,NA,NA,NA,NA,NA
-Social Media Manager,participant, NA, NA,NA,NA,NA,NA,NA
-Barista,participant, NA, NA,NA,NA,NA,NA,NA
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3cacbc02d5f4ab324b3b33ecce35c070d4deb76fe5aff0fa2deec943c96edea
+size 426

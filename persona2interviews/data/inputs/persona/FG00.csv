@@ -1,9 +1,3 @@
-expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience
-Journalist specialised on Technology,moderator, NA, NA,NA,NA,NA,NA,NA
-AI Professor,participant, NA, NA,NA,NA,NA,NA,NA
-AI Software Developer,participant, NA, NA,NA,NA,NA,NA,NA
-Data Scientist,participant, NA, NA,NA,NA,NA,NA,NA
-AI Ethicist,participant, NA, NA,NA,NA,NA,NA,NA
-AI Consultant,participant, NA, NA,NA,NA,NA,NA,NA
-Natural Language Processing Expert,participant, NA, NA,NA,NA,NA,NA,NA
-no persona,participant, NA, NA,NA,NA,NA,NA,NA
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed00d8cd21c5d2bdf16822c6c4200ea0998eaba760de6eb4deece2b88f1bb830
+size 527
