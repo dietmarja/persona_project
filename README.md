@@ -1,4 +1,4 @@
-# Overall Readme File for Persona Analysis
+# Overall Readme File for the Persona Project
 The person project seeks to find out whether and under what conditions, a persona can outperform the LLM it is derived from. 
 The Python program in the repository "person_project" provides the tools or modules used to achieve this goal. Allocated to a subfolder, 
 each of the modules addresses a particular aspect of the questions to be addressed while otherwise maintaining a structure similar to the other modules. 
