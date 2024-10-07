@@ -1,0 +1,468 @@
+Easiest
+What is one-hot-encoding?
+
+A technique to normalize the data
+A method to represent categorical variables as binary vectors
+A way to handle missing values in the dataset
+A type of data augmentation
+What is a loss function in machine learning?
+
+A measure of how well a model's predictions match the actual data
+A function that causes the machine to lose data
+A function that deletes unnecessary parts of the model
+A way to calculate how much money was lost in training the model
+What is overfitting in machine learning?
+
+When a model learns the training data too well including its noise and peculiarities
+When a model rather learns than remembers
+When a model is too simple to capture the underlying patterns in the data
+When a model takes too long to train
+What is the learning rate in AI models?
+
+The number of times a model is trained on a dataset
+The metric used to measure the accuracy of a model's predictions
+A hyperparameter that controls the step size taken during gradient descent to update model parameters
+The amount of data required to train a model effectively
+What is cross-validation?
+
+A method to evaluate the model’s performance by splitting the data into training and validation sets
+A technique to enhance the training speed
+Making sure the model is trained with meaningful data
+Making sure the model is trained with large amounts of data
+What is data augmentation in machine learning?
+
+A technique of rigorous data cleansing that augments the data quality
+A technique to increase the amount of training data by creating modified versions of existing data
+An approach to handle missing values in the dataset
+A way to initialize model weights
+Which of these are common metrics for evaluating language models?
+
+BLEU
+Perplexity
+ROUGE
+F1
+Moderate
+What is gradient descent?
+
+An optimization technique
+A process for collecting and storing large amounts of data
+A method computers use to understand and respond to natural language
+A method to train machine learning models by iteratively adjusting model parameters to minimize a loss function
+What is the softmax function?
+
+An activation function
+A function that converts probabilities into real numbers or logits
+A function that converts numbers or logits into probabilities
+A function used to determine the next word of the output of a LLM
+What is backpropagation in neural networks?
+
+A technique for initializing weights in the network
+A method to optimize the learning rate
+A process for updating weights and biases using gradient descent
+A way to prevent overfitting by adding regularization
+What is the role of an activation function in large language models?
+
+To initialize the weights of the model
+To introduce non-linearity into the model
+To enhance the accuracy of the model through regularization
+To slim down the model
+What are embeddings?
+
+An approach to split data into batches
+A method to represent words or phrases in a continuous vector space
+A technique to compress the model size
+A way to handle overfitting in the model
+What is the purpose of a vector database?
+
+To store scalar values efficiently
+To store and search data in a vector space
+To handle relational data with foreign keys
+To perform SQL queries faster
+What is parameter-efficient fine-tuning (PEFT)?
+
+A method to increase the number of parameters in the model for better accuracy
+A technique to fine-tune a pre-trained model with minimal changes to its parameters
+A way to reduce the training time by using more data
+A technique to initialize the model parameters more efficiently
+What is temperature in LLMs?
+
+A measure of creativity in LLMs
+A coefficient added to the softmax function to increase the weight of lower values
+A coefficient added to the softmax function to increase the weight of higher values
+Higher temperatures mean less randomness
+What is hyperparameter tuning?
+
+The process of optimizing the parameters that define the network architecture
+The process of optimizing the parameters used during training
+A method to increase the dataset size
+A way to reduce overfitting
+What is fine-tuning in the context of pre-trained models?
+
+Training a model from scratch
+Adjusting a pre-trained model to better fit a specific task
+Using unsupervised learning to improve model performance
+A method to prevent overfitting
+What is a convolutional neural network (CNN)?
+
+A neural network designed to handle sequential data
+A type of neural network primarily used for image processing tasks
+A neural network with low dimensions
+A neural network that can process unlabeled data well
+What is batch normalization?
+
+A technique to initialize weights in a neural network
+A method to normalize the inputs of each layer in a neural network
+An approach to reduce the size of a dataset
+A way to handle overfitting
+What is dropout in neural networks?
+
+A method to initialize model weights
+An error in the training process
+A way to speed up the training process
+A technique to randomly ignore certain neurons during training to prevent overfitting
+Which of the following is true about recurrent neural networks (RNN)?
+
+RNNs are good at learning long-range dependencies in sequences
+RNNs are strong competitors of transformer models
+Compared to traditional deep neural networks, the introduction of RNNs marked a major progress in dealing with sequential information
+RNNs use sequential data or time series data
+What is an autoencoder?
+
+A method that can be used, e.g., to learn word embeddings from unlabeled text data
+A type of neural network used, e.g., for dimensionality reduction and feature learning
+A type of neural network that is limited to encoding
+A type of neural network that is good at learning more abstract and higher-level features
+What are advantages of transformer models?
+
+They can handle long-range dependencies effectively
+They are computationally efficient for short sequences
+Thanks to their self-attention mechanism, they can analyze all parts of a sequence simultaneously
+Their performance improves as you train them on more data
+What is few-shot learning in the context of LLMs?
+
+A method to train models with a large amount of data
+A technique to learn and generalize from a small number of training examples
+A way to reduce the size of the model
+A technique to reduce the number of iterations in the learning process
+Which of the following is true about the attention mechanism in transformers?
+
+It focuses on the most important parts of the input sequence
+It increases the model’s memory capacity
+It enhances the gradient descent process
+It regularizes the model to prevent overfitting
+What is transfer learning?
+
+Training a new model from scratch for every task
+Using a pre-trained model and adapting it to a new task
+A method to handle missing data in the dataset
+Adding another layer to the model to increase its applicability in new areas
+Which of the following are common attention mechanisms in transformer models?
+
+Self-attention
+Cross-attention
+Multi-head attention
+Sparse-attention
+Which of the following are ethical concerns with LLMs?
+
+Bias in training data leading to biased outputs
+Potential for generating misinformation
+Privacy concerns related to training data
+Environmental impact of training large models
+Which of these are tokenization methods used in NLP?
+
+Byte-Pair Encoding (BPE)
+WordPiece
+SentencePiece
+Unigram Language Model
+Which of these are techniques for reducing the computational cost of LLMs?
+
+Quantization
+Pruning
+Mixed Precision Training
+Knowledge Distillation
+What do instruction and preference fine-tuning have in common and what is the difference between them?
+
+Both are techniques for developing LLMs
+Instruction fine-tuning is a non-supervised technique focusing on explicit instructions
+Preference fine-tuning is a non-supervised technique focusing on learning the user's preferences for the desired output
+Instruction fine-tuning is a more explicit and preference fine-tuning a more implicit learning technique
+Which of the following is true about LoRA?
+
+LoRA is a fine-tuning method
+LoRA is an alternative to parameter-efficient fine-tuning
+LoRA is a method for training a model from scratch
+LoRA reduces the memory but not the execution time for full parameter fine-tuning
+Which of these are methods for improving model robustness?
+
+Data Augmentation
+Adversarial training
+Ensemble Methods
+Increasing model depth
+What are characteristics of zero-shot learning in LLMs?
+
+It requires no examples of the target task
+It relies heavily on the model’s pre-training
+It always outperforms few-shot learning
+It can generalize to completely new tasks
+Which of these are techniques for handling out-of-vocabulary words?
+
+Subword tokenization
+Using a fixed vocabulary
+Character-level modeling
+Byte-level encoding
+What are potential approaches for reducing bias in language models?
+
+Carefully curating training data
+Post-processing model outputs
+Fine-tuning on unbiased datasets
+Ignoring the problem as it’s unsolvable
+Which of these are techniques for handling long sequences in transformers?
+
+Sliding window attention
+Sparse attention
+Recursive Transformers
+Increasing the number of attention heads
+What is a transformer block in LLMs?
+
+A specialized layer that injects factual knowledge into the LLM
+A unit responsible for parallel processing of word embeddings
+A recurrent neural network architecture commonly used in LLMs
+A layer that performs self-attention, analyzing relationships between words within a sequence
+Which of the following ethical issues are to be considered when developing LLMs?
+
+Bias in training data leading to unfair or discriminatory outputs
+Environmental impact of the computational resources required for training
+Privacy concerns related to the data used for training
+Ensuring that LLMs always agree with the political views of their developers
+Which of the following ethical issues are to be considered when applying LLMs?
+
+Ensuring LLMs always prioritize the most recent information in their responses
+Transparency about the use of AI-generated content in user interactions
+Ensuring equitable access to LLM technology across different socioeconomic groups
+Potential job displacement due to automation of certain language-based tasks
+What are potential approaches for improving the factual accuracy of LLMs?
+
+Retrieval-Augmented Generation (RAG)
+Fine-tuning on high-quality datasets
+Increasing model size indefinitely
+Using fact-checking modules
+What are characteristics of self-supervised learning in NLP?
+
+It requires large amounts of labeled data
+It can leverage unlabeled data effectively
+It often uses pretext tasks
+It’s only useful for small models
+Which of these are techniques for improving the efficiency of attention mechanisms?
+
+Linear attention
+Local attention
+Longformer attention
+Increasing the number of attention heads
+Which of these are common activation functions in deep learning?
+
+ReLU
+Sigmoid
+Tanh
+Softmax
+When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?
+
+Open-source models are typically free from bias
+Code transparency in open-source models allows for community-driven bias detection
+Proprietary models prioritize fairness over functionality
+Open-source development introduces a higher risk of bias due to the lack of control
+When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?
+
+Easier integration with existing open-source software tools
+Ability to tailor the model for specific industry needs and keep the competitive edge
+Sharing the model with anyone interested in using it for free
+Reduced development costs due to community contributions
+How do security and privacy concerns differ between open-source and proprietary LLMs?
+
+Open-source models are inherently more secure due to public scrutiny
+Proprietary models are more secure because their code is hidden
+Both types of LLMs face similar security challenges
+Proprietary LLMs are generally considered more secure due to professional security teams
+Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?
+
+An open-source model with an active community of contributors
+A closed-source, proprietary model with regular vendor updates
+A model that incorporates federated learning techniques
+A model that uses continuous learning from user interactions
+Which of the following true about the embedding matrix E?
+
+The size of W equals the size of the vocabulary times the sequence length
+The size of W equals the size of the vocabulary times the size of the embedding dimension
+E is learned during the model training
+During inference, each word of the input will be mapped against entries E
+Most Difficult
+What does mixture of experts (MOE) mean in machine learning and LLM?
+
+A technique where multiple models specialize in different parts of the input with a gating network selecting which experts to use for each input
+A method where the same model architecture is used across different tasks without any modifications
+A mechanism that combines multiple neural networks, all of which are always active for every input to improve computational efficiency
+A framework where models are trained to generate mixtures of inputs and outputs rather than focusing on specific tasks
+What is model interpretability?
+
+Being able to understand and explain how a model makes decisions
+A measure of a model’s performance on unseen data
+A technique to speed up the training process
+A method to enhance the model’s accuracy
+What is hyperparameter tuning?
+
+The process of optimizing the parameters that define the network architecture
+The process of optimizing the parameters used during training
+A method to increase the dataset size
+A way to reduce overfitting
+What is fine-tuning in the context of pre-trained models?
+
+Training a model from scratch
+Adjusting a pre-trained model to better fit a specific task
+Using unsupervised learning to improve model performance
+A method to prevent overfitting
+What are potential applications of reinforcement learning in LLMs?
+
+Improving dialogue systems
+Optimizing language generation for specific metrics
+Enhancing model interpretability
+Reducing model size
+Which of these are methods for improving model robustness?
+
+Data Augmentation
+Adversarial training
+Ensemble Methods
+Increasing model depth
+What are characteristics of zero-shot learning in LLMs?
+
+It requires no examples of the target task
+It relies heavily on the model’s pre-training
+It always outperforms few-shot learning
+It can generalize to completely new tasks
+Which of these are techniques for handling out-of-vocabulary words?
+
+Subword tokenization
+Using a fixed vocabulary
+Character-level modeling
+Byte-level encoding
+What are potential approaches for reducing bias in language models?
+
+Carefully curating training data
+Post-processing model outputs
+Fine-tuning on unbiased datasets
+Ignoring the problem as it’s unsolvable
+Which of these are common metrics for evaluating language models?
+
+BLEU
+Perplexity
+ROUGE
+F1
+Which of these are techniques for handling long sequences in transformers?
+
+Sliding window attention
+Sparse attention
+Recursive Transformers
+Increasing the number of attention heads
+What is a transformer block in LLMs?
+
+A specialized layer that injects factual knowledge into the LLM
+A unit responsible for parallel processing of word embeddings
+A recurrent neural network architecture commonly used in LLMs
+A layer that performs self-attention, analyzing relationships between words within a sequence
+Which of the following ethical issues are to be considered when developing LLMs?
+
+Bias in training data leading to unfair or discriminatory outputs
+Environmental impact of the computational resources required for training
+Privacy concerns related to the data used for training
+Ensuring that LLMs always agree with the political views of their developers
+Which of the following ethical issues are to be considered when applying LLMs?
+
+Ensuring LLMs always prioritize the most recent information in their responses
+Transparency about the use of AI-generated content in user interactions
+Ensuring equitable access to LLM technology across different socioeconomic groups
+Potential job displacement due to automation of certain language-based tasks
+What are potential approaches for improving the factual accuracy of LLMs?
+
+Retrieval-Augmented Generation (RAG)
+Fine-tuning on high-quality datasets
+Increasing model size indefinitely
+Using fact-checking modules
+What are characteristics of self-supervised learning in NLP?
+
+It requires large amounts of labeled data
+It can leverage unlabeled data effectively
+It often uses pretext tasks
+It’s only useful for small models
+Which of these are techniques for improving the efficiency of attention mechanisms?
+
+Linear attention
+Local attention
+Longformer attention
+Increasing the number of attention heads
+Which of these are common activation functions in deep learning?
+
+ReLU
+Sigmoid
+Tanh
+Softmax
+When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?
+
+Open-source models are typically free from bias
+Code transparency in open-source models allows for community-driven bias detection
+Proprietary models prioritize fairness over functionality
+Open-source development introduces a higher risk of bias due to the lack of control
+When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?
+
+Easier integration with existing open-source software tools
+Ability to tailor the model for specific industry needs and keep the competitive edge
+Sharing the model with anyone interested in using it for free
+Reduced development costs due to community contributions
+How do security and privacy concerns differ between open-source and proprietary LLMs?
+
+Open-source models are inherently more secure due to public scrutiny
+Proprietary models are more secure because their code is hidden
+Both types of LLMs face similar security challenges
+Proprietary LLMs are generally considered more secure due to professional security teams
+Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?
+
+An open-source model with an active community of contributors
+A closed-source, proprietary model with regular vendor updates
+A model that incorporates federated learning techniques
+A model that uses continuous learning from user interactions
+Which of the following true about the embedding matrix E?
+
+The size of W equals the size of the vocabulary times the sequence length
+The size of W equals the size of the vocabulary times the size of the embedding dimension
+E is learned during the model training
+During inference, each word of the input will be mapped against entries E
+This categorization should help in understanding the relative difficulty of each question.
+
+Which criteria did you use to assign the questions to the categories of item difficulty?
+
+
+To assign the questions to the categories of item difficulty, I used the following criteria:
+
+Conceptual Complexity:
+
+Easiest: Questions that involve fundamental concepts that are typically covered in introductory courses or materials on machine learning and artificial intelligence.
+Moderate: Questions that delve into more specialized topics that require a deeper understanding of machine learning algorithms, neural networks, and their applications.
+Most Difficult: Questions that involve advanced concepts, cutting-edge techniques, or ethical and practical considerations that are typically discussed in advanced courses, research papers, or industry-specific contexts.
+Technical Depth:
+
+Easiest: Questions that can be answered with a basic understanding of machine learning terminology and principles.
+Moderate: Questions that require knowledge of specific algorithms, techniques, and their implementations.
+Most Difficult: Questions that involve detailed knowledge of advanced algorithms, architectures, and their intricacies, as well as ethical and practical implications.
+Practical Application:
+
+Easiest: Questions that relate to commonly used techniques and concepts that are widely applied in various fields.
+Moderate: Questions that involve techniques and concepts that are used in more specialized applications and require a good grasp of practical implementation.
+Most Difficult: Questions that involve advanced techniques and concepts that are used in highly specialized applications, research, or industry-specific contexts.
+Ethical and Practical Considerations:
+
+Easiest: Questions that involve basic ethical and practical considerations that are generally understood and widely discussed.
+Moderate: Questions that involve more nuanced ethical and practical considerations that require a deeper understanding of the implications of AI and machine learning.
+Most Difficult: Questions that involve complex ethical and practical considerations that are typically discussed in advanced courses, research papers, or industry-specific contexts.
+Specificity and Detail:
+
+Easiest: Questions that are broad and general in nature, requiring a basic understanding of the concepts.
+Moderate: Questions that are more specific and require a detailed understanding of the concepts and their applications.
+Most Difficult: Questions that are highly specific and require a detailed and nuanced understanding of the concepts, their applications, and their implications.
+By applying these criteria, I categorized the questions into the three difficulty levels: Easiest, Moderate, and Most Difficult. This approach ensures that the categorization is based on a combination of conceptual complexity, technical depth, practical application, ethical and practical considerations, and specificity and detail.
