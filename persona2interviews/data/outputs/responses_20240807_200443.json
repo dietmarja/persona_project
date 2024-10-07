@@ -1,0 +1,102 @@
+[
+  {
+    "persona_id": "76470147-4ea2-43b3-a4d3-4b60d4fb890c",
+    "question_id": "Q1",
+    "choices": [
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "persona_id": "76470147-4ea2-43b3-a4d3-4b60d4fb890c",
+    "question_id": "Q2",
+    "choices": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "persona_id": "76470147-4ea2-43b3-a4d3-4b60d4fb890c",
+    "question_id": "Q3",
+    "choices": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "persona_id": "76470147-4ea2-43b3-a4d3-4b60d4fb890c",
+    "question_id": "Q4",
+    "choices": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "persona_id": "76470147-4ea2-43b3-a4d3-4b60d4fb890c",
+    "question_id": "Q5",
+    "choices": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "persona_id": "035a4085-ee10-4a9f-b0a3-300c062164d1",
+    "question_id": "Q1",
+    "choices": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "persona_id": "035a4085-ee10-4a9f-b0a3-300c062164d1",
+    "question_id": "Q2",
+    "choices": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "persona_id": "035a4085-ee10-4a9f-b0a3-300c062164d1",
+    "question_id": "Q3",
+    "choices": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "persona_id": "035a4085-ee10-4a9f-b0a3-300c062164d1",
+    "question_id": "Q4",
+    "choices": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "persona_id": "035a4085-ee10-4a9f-b0a3-300c062164d1",
+    "question_id": "Q5",
+    "choices": [
+      1,
+      1,
+      0,
+      0
+    ]
+  }
+]

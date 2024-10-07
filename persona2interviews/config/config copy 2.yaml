@@ -1,0 +1,56 @@
+# Simulation settings
+simulation:
+  persona_files:
+    - "data/inputs/persona/FG00.csv"
+    - "data/inputs/persona/FG01.csv"
+    - "data/inputs/persona/FG02.csv"
+    - "data/inputs/persona/FG03.csv"
+    - "data/inputs/persona/FG04.csv"
+    - "data/inputs/persona/FG05.csv"
+    - "data/inputs/persona/FG06.csv"
+  moderator_criteria:
+    role: "moderator"
+  participant_criteria:
+    role: "participant"
+  iterations: 5
+
+# Interview/Focus Group settings
+one_to_one_interview:
+  enabled: false
+focus_group:
+  enabled: true
+
+# Output settings
+output:
+  directory: "data/outputs/results/4analysis/"
+  diversity_files:
+    - "data/outputs/questionnaire/diversity00.csv"
+    - "data/outputs/questionnaire/diversity01.csv"
+    - "data/outputs/questionnaire/diversity02.csv"
+    - "data/outputs/questionnaire/diversity03.csv"
+    - "data/outputs/questionnaire/diversity04.csv"
+    - "data/outputs/questionnaire/diversity05.csv"
+    - "data/outputs/questionnaire/diversity06.csv"
+# AI settings
+advanced:
+  model: "gpt-3.5-turbo"
+  max_tokens: 150
+  temperature: 0.7
+  max_turns: 5
+
+# OpenAI API settings
+openai:
+  api_key: ${OPENAI_API_KEY}
+
+# Logging settings
+logging:
+  file: "data/logs/simulation.log"
+  level: "INFO"
+
+# System prompts
+system_prompts:
+  moderator: "data/inputs/prompts/moderator_prompt.txt"
+  participant: "data/inputs/prompts/participant_prompt.txt"
+
+# Topic file
+topic_file: "data/inputs/topics/topics4discussion.csv"

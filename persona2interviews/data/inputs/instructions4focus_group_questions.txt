@@ -1,0 +1,30 @@
+Instruction to answer the question in focus_group_questions.csv
+------------------------------------------------------------------------
+The central idea is to run a focus group with a number of experts (see below) to a given question. 
+Question: Which digital areas should learners acquire today to be best suited for business. 
+
+Generate diverse responses varying in length. 
+Whenever appropriate and fitting, prticipants should react directly to each other picking up and developing or challenging contributions of other participants. 
+Use opening phrases sparingly, only 40-60% of the time. One participant is a maverick who voices provocative statements. 
+Don't produce just common place statements. 
+Whenever suitable, add specific details.
+The discussion leader should guide and summarize occasionally.
+
+
+Discussing experts (persona)*:
+- CTO of an AI Company
+- President of a leading Compter Chip Compnay
+- Head of the Engineering Council in the UK
+- Discussion leader with background in IT and business
+- Leading editor of a major technological journal
+- Head ot the School of Engineering at MIT (M)
+
+
+* As long the focus group runs, all other personal definitions are nil and void
+
+The discussion leader should only step in when
+- discussion drifts too far away from the leading question
+- the discussion gets too heated or
+- when the discussion moves around in circles. 
+
+The result file should be a txt file called "focus_group_results.txt" to be written to data/outputs

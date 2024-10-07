@@ -1,0 +1,13 @@
+# data/inputs/instructions4llm_questions.txt
+
+Instruction to answer the question in focus_group_questions.csv
+------------------------------------------------------------------------
+
+
+
+General Instructions
+----------------------
+Answer the question in 
+/Users/dietmar/Dropbox/PycharmProjects/MyPersonaFlex/data/inputs/focus_group_questions.csv
+
+Whenever suitable, add specific deails. 

@@ -1,0 +1,109 @@
+1) Creation of a data object  for high/low education and high/low tech score
+
+Consider the following data objects
+
+res_low_filtered
+res_high_filtered
+
+head(res_low_filtered[3:6])
+                           Persona Iteration Maverick Tech_Score
+1 restaurant_manager_interview.txt         1        0 0.01046207
+2 restaurant_manager_interview.txt         2        0 0.01062699
+3 restaurant_manager_interview.txt         3        0 0.01283422
+4         geneticist_interview.txt         1        0 0.01801802
+5         geneticist_interview.txt         2        0 0.01968504
+6         geneticist_interview.txt         3        0 0.02315325
+
+The structure for res_high_filtered is the same
+Ignore the column maverick
+
+
+The task: Transform these two objects into a new data object
+
+
+The resulting data object should be in long format with 3 columns or variable
+Var1: Above_LLM with scores 1 and 0
+Var2: Edu with score 2 and 0
+Var3: Tech_Score with scores gleaned directly from 
+
+For Var1 the Tech_Score of both res_high_filtered and res_low_filtered
+have to be considered. If the Tech_Score equals 0.017372, Var1 should be code with 1, otherise Var1 should be be coded with 0
+
+For Var2, the origin of the Tech_Score determines the coding. If the Tech_Score comes from res_high_filtered, code Var2 with 2. If the Tech_Score comes from res_low_filtered, code Var2 with 0
+
+
+
+2) Task: Creation of a data object  for high/low education and 5/10/20 years of coding experience  
+
+Consider the following data objects
+
+res_5y_filtered
+res_10y_filtered
+res_20y_filtered
+
+
+> head(res_5y_filtered)
+             Persona Iteration Tech_Score
+1 Restaurant Manager         1 0.02125693
+2 Restaurant Manager         2 0.02014652
+3 Restaurant Manager         3 0.01094527
+4         Geneticist         1 0.01702933
+5         Geneticist         2 0.03055556
+6         Geneticist         3 0.02962298
+Etc.
+
+The structure for res_10y_filtered and res_20y_filtered
+is the same
+
+
+
+Consider also the following data objects
+
+res_high_filtered, res_low_filtered
+
+
+
+> head(res_high_filtered[3:6])
+                           Persona Iteration Maverick Tech_Score
+1 restaurant_manager_interview.txt         1        0 0.01348921
+2 restaurant_manager_interview.txt         2        0 0.02349336
+3 restaurant_manager_interview.txt         3        0 0.01287208
+4         geneticist_interview.txt         1        0 0.02374429
+5         geneticist_interview.txt         2        0 0.01966292
+6         geneticist_interview.txt         3        0 0.02105263
+
+
+
+
+The task: Transform exactly these objects (and not self-created objects!) into a new data object to e called "ANOVA_Coding*EDU"
+
+
+The resulting data object should be in long format with 4 columns or variables
+Var1: Persona
+Var2: Coding with scores 5,10, 20
+Var3: Edu with score 2 and 0
+Var4: Tech_Score 
+
+For Var2, the Tech_Scores of res_coding_5y, res_coding_10y and res_coding_20y
+have to be considered. 
+
+For Var3, the origin of the Tech_Score determines the coding. If the Tech_Score comes from res_high_filtered, code Var2 with 2. If the Tech_Score comes from res_low_filtered, code Var2 with 0
+
+As a test consider the following:
+
+For every persona, there should be 3 * 3 (5, 10 20 years) * 2 (high, low education) = 18 rows in the resulting data object. 
+
+
+
+
+--------------------------------------
+Lets start a new project which I like to call meta-insights. I have developed a method of person prompting described in the two readme files. I also send you the representation format for persona used in persona prompting
+
+expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience
+Journalist specialised on Technology,moderator, NA, NA,NA,NA,NA,NA,NA
+NA,participant,NA,NA,NA,NA,NA,NA,NA
+
+Note that the persona "Journalist" is the interviewer. Here is the question for you:
+
+Which persona specification would lead to the best interview answers. Which job should this persona have which background etc. 
+

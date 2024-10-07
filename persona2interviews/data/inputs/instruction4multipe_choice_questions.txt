@@ -1,0 +1,23 @@
+# data/inputs/instruction4multiple_choice_questions.txt
+
+Instruction to answer the questions in multiple_choice_questions.csv
+------------------------------------------------------------------------
+This is the header of multiple_choice_questions.csv. Ignore the columns "Difficulty" and "Topic":
+Question ID;Question Text;Option A;Option B;Option C;Option D;Correct Options;Difficulty;Topic
+
+Answer all questions in multiple_choice_questions.csv by choosing 1-4 options for each question.
+Each Persona should answer each question by:
+- Restating the persona ID
+- For each question:
+  - Allocate 1 for an option chosen 
+  - Allocate 0 for an option not chosen
+
+Hence, the number of 0/1 data equals the number of questions times 4. 
+
+Example: Suppose the questionnaire consists of 3 questions. If a person with identifier P2 chooses options 1 and 4  and just the first option for all other questions, the results would look like this:
+
+Persona ID;Q11;Q12;Q13;Q14;Q21;Q22;Q23;Q24;Q31;Q32;Q33;Q34
+P2;1;0;0;1;1;0;0;0;1;0;0;0;1;0;0;0          
+
+
+The result file should be a CSV file called "multiple_choice_results.csv" to be written to data/outputs

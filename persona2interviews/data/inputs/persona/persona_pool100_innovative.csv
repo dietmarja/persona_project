@@ -1,0 +1,102 @@
+expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience
+Journalist specialised on Technology,moderator,NA,NA,NA,NA,innovative,NA,NA
+AI Professor,participant,NA,NA,NA,NA,innovative,NA,NA
+AI Software Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+Machine Learning Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Data Scientist,participant,NA,NA,NA,NA,innovative,NA,NA
+AI Ethicist,participant,NA,NA,NA,NA,innovative,NA,NA
+Business Intelligence Analyst,participant,NA,NA,NA,NA,innovative,NA,NA
+Computer Vision Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Natural Language Processing Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Robotics Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Data Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Electrical Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Architect,participant,NA,NA,NA,NA,innovative,NA,NA
+Software Quality Assurance Tester,participant,NA,NA,NA,NA,innovative,NA,NA
+Digital Marketing Specialist,participant,NA,NA,NA,NA,innovative,NA,NA
+Business Analyst,participant,NA,NA,NA,NA,innovative,NA,NA
+Customer Service Representative,participant,NA,NA,NA,NA,innovative,NA,NA
+Lorry Driver,participant,NA,NA,NA,NA,innovative,NA,NA
+Shop Assistant,participant,NA,NA,NA,NA,innovative,NA,NA
+Barista,participant,NA,NA,NA,NA,innovative,NA,NA
+Gardener,participant,NA,NA,NA,NA,innovative,NA,NA
+Professor of Classics,participant,NA,NA,NA,NA,innovative,NA,NA
+CTO of a Fintec,participant,NA,NA,NA,NA,innovative,NA,NA
+Financial Analyst,participant,NA,NA,NA,NA,innovative,NA,NA
+Human Resources Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Marketing Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Sales Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Project Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Product Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Operations Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Supply Chain Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+IT Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Cybersecurity Specialist,participant,NA,NA,NA,NA,innovative,NA,NA
+Network Administrator,participant,NA,NA,NA,NA,innovative,NA,NA
+System Administrator,participant,NA,NA,NA,NA,innovative,NA,NA
+Database Administrator,participant,NA,NA,NA,NA,innovative,NA,NA
+Cloud Architect,participant,NA,NA,NA,NA,innovative,NA,NA
+DevOps Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Full Stack Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+Frontend Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+Backend Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+Mobile App Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+Game Developer,participant,NA,NA,NA,NA,innovative,NA,NA
+UX/UI Designer,participant,NA,NA,NA,NA,innovative,NA,NA
+Graphic Designer,participant,NA,NA,NA,NA,innovative,NA,NA
+Content Writer,participant,NA,NA,NA,NA,innovative,NA,NA
+SEO Specialist,participant,NA,NA,NA,NA,innovative,NA,NA
+Social Media Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Public Relations Specialist,participant,NA,NA,NA,NA,innovative,NA,NA
+Event Planner,participant,NA,NA,NA,NA,innovative,NA,NA
+Travel Agent,participant,NA,NA,NA,NA,innovative,NA,NA
+Hotel Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Restaurant Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Chef,participant,NA,NA,NA,NA,innovative,NA,NA
+Bartender,participant,NA,NA,NA,NA,innovative,NA,NA
+Waiter/Waitress,participant,NA,NA,NA,NA,innovative,NA,NA
+Retail Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Warehouse Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Logistics Coordinator,participant,NA,NA,NA,NA,innovative,NA,NA
+Procurement Specialist,participant,NA,NA,NA,NA,innovative,NA,NA
+Construction Manager,participant,NA,NA,NA,NA,innovative,NA,NA
+Civil Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Mechanical Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Chemical Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Environmental Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Aerospace Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Biomedical Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Industrial Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Petroleum Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Nuclear Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Agricultural Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Marine Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Mining Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Materials Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Manufacturing Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Quality Control Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Safety Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Fire Protection Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Structural Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Geotechnical Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Transportation Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Water Resources Engineer,participant,NA,NA,NA,NA,innovative,NA,NA
+Environmental Scientist,participant,NA,NA,NA,NA,innovative,NA,NA
+Geologist,participant,NA,NA,NA,NA,innovative,NA,NA
+Meteorologist,participant,NA,NA,NA,NA,innovative,NA,NA
+Astronomer,participant,NA,NA,NA,NA,innovative,NA,NA
+Physicist,participant,NA,NA,NA,NA,innovative,NA,NA
+Chemist,participant,NA,NA,NA,NA,innovative,NA,NA
+Biologist,participant,NA,NA,NA,NA,innovative,NA,NA
+Microbiologist,participant,NA,NA,NA,NA,innovative,NA,NA
+Geneticist,participant,NA,NA,NA,NA,innovative,NA,NA
+Neuroscientist,participant,NA,NA,NA,NA,innovative,NA,NA
+Pharmacist,participant,NA,NA,NA,NA,innovative,NA,NA
+Veterinarian,participant,NA,NA,NA,NA,innovative,NA,NA
+Dentist,participant,NA,NA,NA,NA,innovative,NA,NA
+Doctor,participant,NA,NA,NA,NA,innovative,NA,NA
+Nurse,participant,NA,NA,NA,NA,innovative,NA,NA
+Physical Therapist,participant,NA,NA,NA,NA,innovative,NA,NA
+Occupational Therapist,participant,NA,NA,NA,NA,innovative,NA,NA
+Speech Therapist,participant,NA,NA,NA,NA,innovative,NA,NA
+Psychologist,participant,NA,NA,NA,NA,innovative,NA,NA

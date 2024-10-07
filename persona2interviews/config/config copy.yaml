@@ -1,0 +1,99 @@
+# Config file for persona2interviews
+# config/config.yaml
+
+.yaml with Multiple Persona and Diversity Files
+
+# Simulation settings
+simulation:
+  persona_files:
+    - "data/inputs/persona/FG00.csv"
+    - "data/inputs/persona/FG01.csv"
+    - "data/inputs/persona/FG02.csv"
+    - "data/inputs/persona/FG03.csv"
+    - "data/inputs/persona/FG04.csv"
+    - "data/inputs/persona/FG05.csv"
+    - "data/inputs/persona/FG06.csv"
+  moderator_criteria:
+    role: "moderator"
+  participant_criteria:
+    role: "participant"
+  iterations: 5
+
+
+# Output settings
+output:
+  directory: "data/outputs/results/4analysis/"
+  diversity_files:
+    - "data/outputs/questionnaire/diversity00.csv"
+    - "data/outputs/questionnaire/diversity01.csv"
+    - "data/outputs/questionnaire/diversity02.csv"
+    - "data/outputs/questionnaire/diversity03.csv"
+    - "data/outputs/questionnaire/diversity04.csv"
+    - "data/outputs/questionnaire/diversity05.csv"
+    - "data/outputs/questionnaire/diversity06.csv"
+# Interview/Focus Group settings
+one_to_one_interview:
+  enabled: true
+focus_group:
+  enabled: true
+
+questionnaire:
+  questions:
+    - name: "Way of Thinking"
+      code: "WT"
+      description: "To what extent do the members of your team differ in their way of thinking?"
+    - name: "Knowledge and Skills"
+      code: "KS"
+      description: "To what extent do the members of your team differ in their knowledge and skills?"
+    - name: "Worldview"
+      code: "WV"
+      description: "To what extent do the members of your team differ in how they see the world?"
+    - name: "Beliefs about What is Right or Wrong"
+      code: "RW"
+      description: "To what extent do the members of your team differ in their beliefs about what is right or wrong?"
+  scale:
+    min: 1
+    max: 7
+    min_description: "to a very small extent"
+    max_description: "to a very large extent"
+
+
+
+# Interview/Focus Group settings
+one_to_one_interview:
+  enabled: false
+focus_group:
+  enabled: true
+#  group_size: 4  
+
+
+# Maverick settings
+maverick:
+  interjection_probability: 0.3  #chance for maverick to interject
+
+
+  
+
+# AI settings
+advanced:
+  model: "gpt-3.5-turbo"
+  max_tokens: 150
+  temperature: 0.7
+  max_turns: 5
+
+openai:
+  #api_key: ${OPENAI_API_KEY}
+  api_key: "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"
+  
+
+logging:
+  file: "data/logs/simulation.log"
+  level: "INFO"
+
+system_prompts:
+  moderator: "data/inputs/prompts/moderator_prompt.txt"
+  participant: "data/inputs/prompts/participant_prompt.txt"
+
+topic_file: "data/inputs/topics/topics4discussion.csv"
+
+

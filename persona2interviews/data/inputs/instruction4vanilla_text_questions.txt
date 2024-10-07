@@ -1,0 +1,9 @@
+Instruction to answer the questions in questions.csv
+
+Answer all questions in the file questions.csv
+In Condition 1, given a short answer
+In Condition 2, given a long answer.
+ 
+ 
+# The instruction file should only specify task demands
+# Persona features are sepcified in config.yaml

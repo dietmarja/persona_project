@@ -1,0 +1,6 @@
+Question ID;Question Text;Option A;Option B;Option C;Option D;Correct Options;Difficulty;Topic
+Q1;Which of the following are commonly used activation functions in neural networks?;Sigmoid;ReLU;Tanh;Linear;A,B,C;7;Deep Learning
+Q2;What are key components of a convolutional neural network (CNN)?;Convolutional layers;Pooling layers;Fully connected layers;Recurrent layers;A,B,C;8;Computer Vision
+Q3;Which of these are unsupervised learning techniques?;K-means clustering;Principal Component Analysis (PCA);Autoencoders;Support Vector Machines (SVM);A,B,C;6;Machine Learning
+Q4;What are common regularization techniques used to prevent overfitting in machine learning models?;L1 regularization;L2 regularization;Dropout;Early stopping;A,B,C,D;8;Model Optimization
+Q5;Which of the following are types of ensemble learning methods?;Bagging;Boosting;Stacking;Random Forests;A,B,C,D;7;Ensemble Methods

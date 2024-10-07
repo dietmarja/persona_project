@@ -1,0 +1,1346 @@
+[
+  {
+    "persona": {
+      "knowledge_level": "high",
+      "persona": "Persona: Dr. John Murphy\n\nBackground: Dr. John Murphy has a Doctorate in Computer Science with a specialization in Artificial Intelligence from the Massachusetts Institute of Technology. He has over 15 years of practical experience in different areas of AI, including neural networks, machine learning, deep learning, and natural language processing. \n\nExperience: After completing his PhD, he served as a researcher and lecturer at Stanford University and as a senior AI scientist at Google. He has published numerous papers and articles in prestigious tech journals about the advancements and implementation of AI in various sectors.\n\nCurrent Role: Presently, he works as the Chief AI Strategist for Microsoft where he oversees the development of innovative AI applications for enhancing user experiences and driving operational efficiency. He's also a renowned keynote speaker at global AI conferences."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "A, D"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "C. A function that converts numbers or logits into probabilities"
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "C. A process for updating weights and biases using gradient descent"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "B. To introduce non-linearity into the model"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "B"
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "B. A method to represent words or phrases in a continuous vector space"
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "B. To store and search data in a vector space"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "C"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "A"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "A. Being able to understand and explain how a model makes decisions"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "B"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "B. A type of neural network primarily used for image processing tasks"
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "B. A method to normalize the inputs of each layer in a neural network"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "D. A technique to randomly ignore certain neurons during training to prevent overfitting"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "C, D"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B. A type of neural network used, e.g., for dimensionality reduction and feature learning"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "A"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "B. LoRA is an alternative to parameter efficient finetuning"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "D"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, C, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "B, C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C, D"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "B, C, D"
+      }
+    ]
+  },
+  {
+    "persona": {
+      "knowledge_level": "high",
+      "persona": "Persona: Dr. Alice Fletcher\n\nDr. Alice Fletcher is an accomplished Artificial Intelligence researcher with a PhD in Computer Science specializing in Machine Learning from Stanford University. For over a decade, she has focused on advancing the fields of neural networks and deep learning, having published numerous influential papers and leading a number of breakthrough projects at renowned tech companies such as Google and IBM. Currently, she holds a principal position at a leading AI startup where she guides the design and execution of cutting-edge AI systems and works on developing ethical AI practices."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "A, D"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "C. A function that converts numbers or logits into probabilities"
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "C. A process for updating weights and biases using gradient descent"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "B"
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "B"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "A, C"
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "C"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "A"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "A"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "B"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "B"
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "B"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "D. A technique to randomly ignore certain neurons during training to prevent overfitting"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "C, D"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "A"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "A, D"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "B. LoRA is an alternative to parameter efficient finetuning"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "D. A layer that performs self-attention, analyzing relationships between words within a sequence"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, C, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "B, C, D"
+      }
+    ]
+  },
+  {
+    "persona": {
+      "knowledge_level": "medium",
+      "persona": "Persona: John Atkins\n\nJohn Atkins is a software engineer with over 7 years of experience in the tech industry. He has a Bachelor's degree in Computer Science with a specialization in data analysis. During his career, he has developed a solid background in algorithms and machine learning techniques, leading multiple AI projects for mid-sized tech companies. Currently, John serves as a lead AI engineer at a fast-growing software company, where he works on optimizing their product with the help of artificial intelligence and machine learning."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "A, D"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "C"
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "B"
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "B"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "C"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "A"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "A"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "B"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "B"
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "B"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B. A type of neural network used, e.g., for dimensionality reduction and feature learning"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "A"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "A, D"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "B. LoRA is an alternative to parameter efficient finetuning"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "D"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, C, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "B, C, D"
+      }
+    ]
+  },
+  {
+    "persona": {
+      "knowledge_level": "medium",
+      "persona": "Persona: Diana Torres \n\nDiana holds a master's degree in computer science with a focus on artificial intelligence from the University of Michigan. She has over seven years of experience in the AI industry, having started as a machine learning engineer before moving into a project manager role in the R&D department at a leading tech company. Currently, she oversees the development of AI systems and algorithms in her role as an AI Project Manager, but she also occasionally contributes to the hands-on software and data science work as part of her role."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "A, D"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "C. A function that coverts numbers or logits into probabilities"
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "C. A process for updating weights and biases using gradient descent"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "B. A method to represent categorical variables as binary vectors"
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "B. A method to represent words or phrases in a continuous vector space"
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "B"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "C"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "A"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "A. Being able to understand and explain how a model makes decisions"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "B"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "B. A type of neural network primarily used for image processing tasks"
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "B"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "C, D"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "A"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "A, D"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "B. LoRA is an alternative to parameter efficient finetuning"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "A, C, D"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "D"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, C, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "A, B, C, D"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "B, C, D"
+      }
+    ]
+  },
+  {
+    "persona": {
+      "knowledge_level": "low",
+      "persona": "Persona: Mary Allen\n\nMary Allen is a dedicated high school English teacher with a degree in literature and a passion for inspiring young minds. Her experience over the past 25 years has mostly focused on curriculum development, textbook review, and student counseling. Although she uses technology in her day-to-day teaching (like PowerPoint presentations and online grading systems), she has not had the opportunity to delve into more advanced tech aspects like artificial intelligence. Mary admits her AI knowledge is lacking, finding it overwhelming and difficult to understand beyond the basics."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "C"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "C"
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "A"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "C."
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "D"
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "C. To handle relational data with foreign keys"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "B."
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "A"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "B"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "C"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "C"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "A"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "C."
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "C"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "C"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "C"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "C. Making sure the model is trained with meaningful data"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "C. Multi-head attention"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "B. WordPiece"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "B. Pruning"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "C. LoRA is a method for training a model from scratch"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "C. Enhancing model interpretability"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "B. Adversarial training"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "A, B"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "C. Character-level modeling"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "D. Increasing the number of attention heads"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "C."
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "C. Enhancing model interpretability"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "B"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "A, D"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "C. Tanh"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "persona": {
+      "knowledge_level": "low",
+      "persona": "Joseph Scott is a professional event planner with over 15 years of experience in the industry. He has a bachelor's degree in hospitality management but has never received formal training or education in information technology or artificial intelligence. Currently, he owns a small event planning company where he handles client relations, logistics planning, and budgeting. He relies heavily on traditional methods for his process work and business operations."
+    },
+    "answers": [
+      {
+        "question": "What is a loss function in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "answer": "A. When a model learns the training data too well including its noise and peculiarities"
+      },
+      {
+        "question": "What is gradient descent?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the softmax function?",
+        "answer": "B."
+      },
+      {
+        "question": "What is backpropagation in neural networks?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the role of an activation function in large language models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is one-hot-encoding?",
+        "answer": "B"
+      },
+      {
+        "question": "What are embeddings?",
+        "answer": "B."
+      },
+      {
+        "question": "What is the purpose of a vector database?",
+        "answer": "C. To handle relational data with foreign keys"
+      },
+      {
+        "question": "What is parameter-efficient fine-tuning (PEFT)",
+        "answer": "B"
+      },
+      {
+        "question": "What is temperature in LLMs?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the learning rate in AI models?",
+        "answer": "C"
+      },
+      {
+        "question": "What does mixture of experts (MOE) mean in machine learning and LLM?",
+        "answer": "B"
+      },
+      {
+        "question": "What is model interpretability?",
+        "answer": "A"
+      },
+      {
+        "question": "What is hyperparameter tuning?",
+        "answer": "B"
+      },
+      {
+        "question": "What is fine-tuning in the context of pre-trained models",
+        "answer": "B"
+      },
+      {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "B"
+      },
+      {
+        "question": "What is batch normalization",
+        "answer": "C"
+      },
+      {
+        "question": "What is dropout in neural networks?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is true about recurrent neural networks(RNN)?",
+        "answer": "D"
+      },
+      {
+        "question": "What is an autoencoder?",
+        "answer": "B"
+      },
+      {
+        "question": "What are advantages of transformer models?",
+        "answer": "B"
+      },
+      {
+        "question": "What is few-shot learning in the context of LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true about the attention mechanism in transformers?",
+        "answer": "A"
+      },
+      {
+        "question": "What is transfer learning?",
+        "answer": "A"
+      },
+      {
+        "question": "What is cross-validation?",
+        "answer": "C"
+      },
+      {
+        "question": "What is data augmentation in machine learning?",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following are common attention mechanisms in transformer models?",
+        "answer": "C. Multi-head attention"
+      },
+      {
+        "question": "Which of the following are ethical concerns with LLMs?",
+        "answer": "A"
+      },
+      {
+        "question": "Which of these are tokenization methods used in NLP?",
+        "answer": "B. WordPiece"
+      },
+      {
+        "question": "Which of these are techniques for reducing the computational cost of LLMs?",
+        "answer": "C. Mixed Precision Training"
+      },
+      {
+        "question": "What do instruction and preference fine-tuning have in common and what is the difference between them?",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true about LoRA?",
+        "answer": "B"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are methods for improving model robustness?",
+        "answer": "B. Adversarial training"
+      },
+      {
+        "question": "What are characteristics of zero-shot learning in LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are techniques for handling out-of-vocabulary words?",
+        "answer": "B. Using a fixed vocabulary"
+      },
+      {
+        "question": "What are potential approaches for reducing bias in language models?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these are common metrics for evaluating language models?",
+        "answer": "C. ROUGE"
+      },
+      {
+        "question": "Which of these are techniques for handling long sequences in transformers?",
+        "answer": "A. Sliding window attention"
+      },
+      {
+        "question": "What is a transformer block in LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "What are potential applications of reinforcement learning in LLMs?",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when developing LLMs?",
+        "answer": "A, B, C"
+      },
+      {
+        "question": "Which of the following ethical issues are to be considered when applying LLMs?",
+        "answer": "B, D"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "B"
+      },
+      {
+        "question": "What are potential approaches for improving the factual accuracy of LLMs",
+        "answer": "C"
+      },
+      {
+        "question": "What are characteristics of self-supervised learning in NLP?",
+        "answer": "B, C"
+      },
+      {
+        "question": "Which of these are techniques for improving the efficiency of attention mechanisms?",
+        "answer": "C. Longformer attention"
+      },
+      {
+        "question": "Which of these are common activation functions in deep learning?",
+        "answer": "A"
+      },
+      {
+        "question": "When it comes to controlling potential biases in an LLM, does open-source development offer advantages in this regard?",
+        "answer": "B"
+      },
+      {
+        "question": "When considering the commercialization of LLM technology, what's a potential benefit of proprietary development?",
+        "answer": "B"
+      },
+      {
+        "question": "How do security and privacy concerns differ between open-source and proprietary LLMs?",
+        "answer": "C"
+      },
+      {
+        "question": "Say, you are looking for an LLM that is constantly evolving and being updated, which type might be a better choice?An open-source model with an active community of contributors",
+        "answer": "A."
+      },
+      {
+        "question": "Which of the following true about the embedding matrix E",
+        "answer": "C"
+      }
+    ]
+  }
+]

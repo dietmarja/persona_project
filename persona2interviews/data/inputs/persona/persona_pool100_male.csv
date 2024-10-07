@@ -1,0 +1,102 @@
+expert,role,background,gender,age,hobbies,style,education_level,years_of_coding_experience
+Journalist specialised on Technology,moderator, NA,male,NA,NA,NA,NA,NA
+AI Professor,participant, NA,male,NA,NA,NA,NA,NA
+AI Software Developer,participant, NA,male,NA,NA,NA,NA,NA
+Machine Learning Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Data Scientist,participant, NA,male,NA,NA,NA,NA,NA
+AI Ethicist,participant, NA,male,NA,NA,NA,NA,NA
+Business Intelligence Analyst,participant, NA,male,NA,NA,NA,NA,NA
+Computer Vision Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Natural Language Processing Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Robotics Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Data Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Electrical Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Architect,participant, NA,male,NA,NA,NA,NA,NA
+Software Quality Assurance Tester,participant, NA,male,NA,NA,NA,NA,NA
+Digital Marketing Specialist,participant, NA,male,NA,NA,NA,NA,NA
+Business Analyst,participant, NA,male,NA,NA,NA,NA,NA
+Customer Service Representative,participant, NA,male,NA,NA,NA,NA,NA
+Lorry Driver,participant, NA,male,NA,NA,NA,NA,NA
+Shop Assistant,participant, NA,male,NA,NA,NA,NA,NA
+Barista,participant, NA,male,NA,NA,NA,NA,NA
+Gardener,participant, NA,male,NA,NA,NA,NA,NA
+Professor of Classics,participant, NA,male,NA,NA,NA,NA,NA
+CTO of a Fintec,participant, NA,male,NA,NA,NA,NA,NA
+Financial Analyst,participant, NA,male,NA,NA,NA,NA,NA
+Human Resources Manager,participant, NA,male,NA,NA,NA,NA,NA
+Marketing Manager,participant, NA,male,NA,NA,NA,NA,NA
+Sales Manager,participant, NA,male,NA,NA,NA,NA,NA
+Project Manager,participant, NA,male,NA,NA,NA,NA,NA
+Product Manager,participant, NA,male,NA,NA,NA,NA,NA
+Operations Manager,participant, NA,male,NA,NA,NA,NA,NA
+Supply Chain Manager,participant, NA,male,NA,NA,NA,NA,NA
+IT Manager,participant, NA,male,NA,NA,NA,NA,NA
+Cybersecurity Specialist,participant, NA,male,NA,NA,NA,NA,NA
+Network Administrator,participant, NA,male,NA,NA,NA,NA,NA
+System Administrator,participant, NA,male,NA,NA,NA,NA,NA
+Database Administrator,participant, NA,male,NA,NA,NA,NA,NA
+Cloud Architect,participant, NA,male,NA,NA,NA,NA,NA
+DevOps Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Full Stack Developer,participant, NA,male,NA,NA,NA,NA,NA
+Frontend Developer,participant, NA,male,NA,NA,NA,NA,NA
+Backend Developer,participant, NA,male,NA,NA,NA,NA,NA
+Mobile App Developer,participant, NA,male,NA,NA,NA,NA,NA
+Game Developer,participant, NA,male,NA,NA,NA,NA,NA
+UX/UI Designer,participant, NA,male,NA,NA,NA,NA,NA
+Graphic Designer,participant, NA,male,NA,NA,NA,NA,NA
+Content Writer,participant, NA,male,NA,NA,NA,NA,NA
+SEO Specialist,participant, NA,male,NA,NA,NA,NA,NA
+Social Media Manager,participant, NA,male,NA,NA,NA,NA,NA
+Public Relations Specialist,participant, NA,male,NA,NA,NA,NA,NA
+Event Planner,participant, NA,male,NA,NA,NA,NA,NA
+Travel Agent,participant, NA,male,NA,NA,NA,NA,NA
+Hotel Manager,participant, NA,male,NA,NA,NA,NA,NA
+Restaurant Manager,participant, NA,male,NA,NA,NA,NA,NA
+Chef,participant, NA,male,NA,NA,NA,NA,NA
+Bartender,participant, NA,male,NA,NA,NA,NA,NA
+Waiter/Waitress,participant, NA,male,NA,NA,NA,NA,NA
+Retail Manager,participant, NA,male,NA,NA,NA,NA,NA
+Warehouse Manager,participant, NA,male,NA,NA,NA,NA,NA
+Logistics Coordinator,participant, NA,male,NA,NA,NA,NA,NA
+Procurement Specialist,participant, NA,male,NA,NA,NA,NA,NA
+Construction Manager,participant, NA,male,NA,NA,NA,NA,NA
+Civil Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Mechanical Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Chemical Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Environmental Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Aerospace Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Biomedical Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Industrial Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Petroleum Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Nuclear Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Agricultural Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Marine Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Mining Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Materials Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Manufacturing Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Quality Control Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Safety Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Fire Protection Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Structural Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Geotechnical Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Transportation Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Water Resources Engineer,participant, NA,male,NA,NA,NA,NA,NA
+Environmental Scientist,participant, NA,male,NA,NA,NA,NA,NA
+Geologist,participant, NA,male,NA,NA,NA,NA,NA
+Meteorologist,participant, NA,male,NA,NA,NA,NA,NA
+Astronomer,participant, NA,male,NA,NA,NA,NA,NA
+Physicist,participant, NA,male,NA,NA,NA,NA,NA
+Chemist,participant, NA,male,NA,NA,NA,NA,NA
+Biologist,participant, NA,male,NA,NA,NA,NA,NA
+Microbiologist,participant, NA,male,NA,NA,NA,NA,NA
+Geneticist,participant, NA,male,NA,NA,NA,NA,NA
+Neuroscientist,participant, NA,male,NA,NA,NA,NA,NA
+Pharmacist,participant, NA,male,NA,NA,NA,NA,NA
+Veterinarian,participant, NA,male,NA,NA,NA,NA,NA
+Dentist,participant, NA,male,NA,NA,NA,NA,NA
+Doctor,participant, NA,male,NA,NA,NA,NA,NA
+Nurse,participant, NA,male,NA,NA,NA,NA,NA
+Physical Therapist,participant, NA,male,NA,NA,NA,NA,NA
+Occupational Therapist,participant, NA,male,NA,NA,NA,NA,NA
+Speech Therapist,participant, NA,male,NA,NA,NA,NA,NA
+Psychologist,participant, NA,male,NA,NA,NA,NA,NA
