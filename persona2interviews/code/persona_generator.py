@@ -16,6 +16,7 @@ def generate_persona(client, knowledge_level, traits_file='persona_traits.json')
         messages=[{"role": "user", "content": prompt}]
     )
     
+    
     persona = {
         "description": completion.choices[0].message.content.strip(),
         "knowledge_level": knowledge_level
