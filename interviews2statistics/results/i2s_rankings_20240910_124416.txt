@@ -1,0 +1,32 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                          filename  tech_score_mean  Tech_Rank
+               ai_software_developer_interview.txt         0.033800          1
+            computer_vision_engineer_interview.txt         0.032934          2
+           machine_learning_engineer_interview.txt         0.030770          3
+                   robotics_engineer_interview.txt         0.029325          4
+       business_intelligence_analyst_interview.txt         0.027705          5
+                        ai_professor_interview.txt         0.026965          6
+natural_language_processing_engineer_interview.txt         0.024628          7
+                      data_scientist_interview.txt         0.024500          8
+                         ai_ethicist_interview.txt         0.021699          9
+                          no_persona_interview.txt         0.017372         10
+
+Maverick Information:
+Maverick Interjection Probability: 0.3
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                          filename  idea_buildup_score_mean  Idea_Buildup_Rank
+                         ai_ethicist_interview.txt                 0.086383                  1
+       business_intelligence_analyst_interview.txt                 0.084363                  2
+                      data_scientist_interview.txt                 0.078209                  3
+           machine_learning_engineer_interview.txt                 0.077464                  4
+                          no_persona_interview.txt                 0.075403                  5
+            computer_vision_engineer_interview.txt                 0.075264                  6
+                   robotics_engineer_interview.txt                 0.070888                  7
+                        ai_professor_interview.txt                 0.070683                  8
+natural_language_processing_engineer_interview.txt                 0.069853                  9
+               ai_software_developer_interview.txt                 0.069823                 10

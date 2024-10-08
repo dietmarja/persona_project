@@ -1,0 +1,29 @@
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+          ai_software_developer_interview.txt    0.100949          1
+                professor_of_ai_interview.txt    0.091388          2
+                    ai_ethicist_interview.txt    0.087854          3
+                            focus_group_1.txt    0.085158          4
+            electrical_engineer_interview.txt    0.082253          5
+                 data_scientist_interview.txt    0.081029          6
+                   lorry_driver_interview.txt    0.074874          7
+      machine_learning_engineer_interview.txt    0.073304          8
+                     no_persona_interview.txt    0.069025          9
+  business_intelligence_analyst_interview.txt    0.066745         10
+   digital_marketing_specialist_interview.txt    0.064737         11
+customer_service_representative_interview.txt    0.064421         12
+
+TFIDF Ranking:
+                                      Persona    TFIDF  TFIDF_Rank
+                    ai_ethicist_interview.txt 0.008109           1
+  business_intelligence_analyst_interview.txt 0.003348           2
+                professor_of_ai_interview.txt 0.002900           3
+                            focus_group_1.txt 0.002491           4
+            electrical_engineer_interview.txt 0.001239           5
+      machine_learning_engineer_interview.txt 0.001230           6
+                 data_scientist_interview.txt 0.001042           7
+          ai_software_developer_interview.txt 0.000951           8
+                   lorry_driver_interview.txt 0.000756           9
+customer_service_representative_interview.txt 0.000723          10
+                     no_persona_interview.txt 0.000707          11
+   digital_marketing_specialist_interview.txt 0.000392          12

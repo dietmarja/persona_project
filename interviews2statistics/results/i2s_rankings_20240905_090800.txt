@@ -1,0 +1,64 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                          filename  tech_score_mean  Tech_Rank
+                   robotics_engineer_interview.txt         0.077157          1
+       business_intelligence_analyst_interview.txt         0.074151          2
+                         ai_ethicist_interview.txt         0.073768          3
+                 electrical_engineer_interview.txt         0.072907          4
+   software_quality_assurance_tester_interview.txt         0.067044          5
+                           architect_interview.txt         0.066422          6
+                          no_persona_interview.txt         0.066382          7
+               ai_software_developer_interview.txt         0.064771          8
+           machine_learning_engineer_interview.txt         0.064632          9
+                       data_engineer_interview.txt         0.064607         10
+                    business_analyst_interview.txt         0.063775         11
+            computer_vision_engineer_interview.txt         0.063417         12
+                      shop_assistant_interview.txt         0.062816         13
+                             barista_interview.txt         0.061839         14
+                                   focus_group.txt         0.058824         15
+                        lorry_driver_interview.txt         0.058210         16
+     customer_service_representative_interview.txt         0.056647         17
+                            gardener_interview.txt         0.056155         18
+                           carpenter_interview.txt         0.054120         19
+               professor_of_classics_interview.txt         0.052854         20
+        digital_marketing_specialist_interview.txt         0.052290         21
+                             plumber_interview.txt         0.051241         22
+                      data_scientist_interview.txt         0.047588         23
+natural_language_processing_engineer_interview.txt         0.043112         24
+                     fitness_trainer_interview.txt         0.038969         25
+                     cto_of_a_fintec_interview.txt         0.038492         26
+
+Maverick Information:
+Maverick Interjection Probability: 0.1
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                          filename  idea_buildup_score_mean  Idea_Buildup_Rank
+                     cto_of_a_fintec_interview.txt                 0.103704                  1
+                            gardener_interview.txt                 0.099288                  2
+                           carpenter_interview.txt                 0.091816                  3
+           machine_learning_engineer_interview.txt                 0.086753                  4
+     customer_service_representative_interview.txt                 0.086300                  5
+                    business_analyst_interview.txt                 0.084632                  6
+               professor_of_classics_interview.txt                 0.083813                  7
+                        lorry_driver_interview.txt                 0.082720                  8
+                     fitness_trainer_interview.txt                 0.080495                  9
+                       data_engineer_interview.txt                 0.078043                 10
+                 electrical_engineer_interview.txt                 0.076177                 11
+                           architect_interview.txt                 0.071290                 12
+               ai_software_developer_interview.txt                 0.070223                 13
+                             plumber_interview.txt                 0.069809                 14
+                             barista_interview.txt                 0.067623                 15
+        digital_marketing_specialist_interview.txt                 0.066599                 16
+            computer_vision_engineer_interview.txt                 0.056679                 17
+                   robotics_engineer_interview.txt                 0.055634                 18
+       business_intelligence_analyst_interview.txt                 0.054543                 19
+natural_language_processing_engineer_interview.txt                 0.051183                 20
+                          no_persona_interview.txt                 0.048775                 21
+   software_quality_assurance_tester_interview.txt                 0.048669                 22
+                         ai_ethicist_interview.txt                 0.042079                 23
+                      shop_assistant_interview.txt                 0.029008                 24
+                      data_scientist_interview.txt                 0.026172                 25
+                                   focus_group.txt                 0.000000                 26

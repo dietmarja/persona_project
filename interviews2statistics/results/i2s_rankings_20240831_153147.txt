@@ -1,0 +1,68 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                                   Persona  Tech_Score  Tech_Rank
+                                 ai_ethicist_interview.txt    0.078390        1.0
+                                      focus_group copy.txt    0.071084        2.0
+                       ai_software_developer_interview.txt    0.069404        3.0
+                             professor_of_ai_interview.txt    0.067930        4.0
+                               data_engineer_interview.txt    0.061594        5.0
+                                         focus_group_1.txt    0.056929        6.0
+                                         focus_group_3.txt    0.056473        7.0
+                              data_scientist_interview.txt    0.055489        8.0
+                          focus_group_all_participants.txt    0.055112        9.0
+                                lorry_driver_interview.txt    0.054115       10.0
+                digital_marketing_specialist_interview.txt    0.053616       11.0
+                                     barista_interview.txt    0.050775       12.0
+                                           focus_group.txt    0.050520       13.0
+                                         focus_group_2.txt    0.049804       14.0
+                         electrical_engineer_interview.txt    0.049646       15.0
+                                ai_professor_interview.txt    0.049581       16.0
+                                   architect_interview.txt    0.048973       17.0
+                              shop_assistant_interview.txt    0.048682       18.0
+                                  no_persona_interview.txt    0.048363       19.0
+                                    gardener_interview.txt    0.048264       20.0
+             customer_service_representative_interview.txt    0.046176       21.0
+               business_intelligence_analyst_interview.txt    0.044563       22.0
+                           robotics_engineer_interview.txt    0.043407       23.0
+           software_quality_assurance_tester_interview.txt    0.043177       24.0
+                            business_analyst_interview.txt    0.039117       25.0
+                    computer_vision_engineer_interview.txt    0.038411       26.0
+natural_language_processing_(nlp)_specialist_interview.txt    0.036348       27.0
+                   machine_learning_engineer_interview.txt    0.033307       28.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                                   Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                                   architect_interview.txt            0.101754                1.0
+                                 ai_ethicist_interview.txt            0.096402                2.0
+             customer_service_representative_interview.txt            0.096337                3.0
+                digital_marketing_specialist_interview.txt            0.095462                4.0
+                            business_analyst_interview.txt            0.092241                5.0
+                             professor_of_ai_interview.txt            0.091751                6.0
+                           robotics_engineer_interview.txt            0.090375                7.0
+                              data_scientist_interview.txt            0.090142                8.0
+           software_quality_assurance_tester_interview.txt            0.089260                9.0
+                       ai_software_developer_interview.txt            0.089151               10.0
+                                lorry_driver_interview.txt            0.089028               11.0
+                              shop_assistant_interview.txt            0.088863               12.0
+                         electrical_engineer_interview.txt            0.087947               13.0
+               business_intelligence_analyst_interview.txt            0.087807               14.0
+                   machine_learning_engineer_interview.txt            0.086587               15.0
+                                     barista_interview.txt            0.084921               16.0
+                                         focus_group_2.txt            0.084101               17.0
+                                  no_persona_interview.txt            0.081224               18.0
+                               data_engineer_interview.txt            0.080706               19.0
+                                         focus_group_3.txt            0.079855               20.0
+                                         focus_group_1.txt            0.076641               21.0
+                                ai_professor_interview.txt            0.076196               22.0
+                                    gardener_interview.txt            0.075693               23.0
+                                      focus_group copy.txt            0.074246               24.0
+natural_language_processing_(nlp)_specialist_interview.txt            0.071379               25.0
+                                           focus_group.txt            0.071005               26.0
+                    computer_vision_engineer_interview.txt            0.069216               27.0
+                          focus_group_all_participants.txt            0.068703               28.0

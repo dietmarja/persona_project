@@ -1,0 +1,36 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+                    ai_ethicist_interview.txt    0.090179        1.0
+          ai_software_developer_interview.txt    0.071394        2.0
+                 data_scientist_interview.txt    0.065706        3.0
+   digital_marketing_specialist_interview.txt    0.063773        4.0
+                professor_of_ai_interview.txt    0.060738        5.0
+                            focus_group_1.txt    0.052400        6.0
+                     no_persona_interview.txt    0.049989        7.0
+customer_service_representative_interview.txt    0.048775        8.0
+                   lorry_driver_interview.txt    0.048344        9.0
+  business_intelligence_analyst_interview.txt    0.043276       10.0
+            electrical_engineer_interview.txt    0.040822       11.0
+      machine_learning_engineer_interview.txt    0.028926       12.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                      Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+   digital_marketing_specialist_interview.txt            0.112771                1.0
+                    ai_ethicist_interview.txt            0.112044                2.0
+                professor_of_ai_interview.txt            0.108723                3.0
+customer_service_representative_interview.txt            0.101827                4.0
+                 data_scientist_interview.txt            0.094687                5.0
+  business_intelligence_analyst_interview.txt            0.092433                6.0
+                   lorry_driver_interview.txt            0.091412                7.0
+                     no_persona_interview.txt            0.090249                8.0
+          ai_software_developer_interview.txt            0.089410                9.0
+                            focus_group_1.txt            0.087359               10.0
+      machine_learning_engineer_interview.txt            0.079733               11.0
+            electrical_engineer_interview.txt            0.079248               12.0

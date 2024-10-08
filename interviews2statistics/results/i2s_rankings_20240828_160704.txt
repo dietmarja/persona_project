@@ -1,0 +1,37 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+                    ai_ethicist_interview.txt    0.090179        1.0
+          ai_software_developer_interview.txt    0.071394        2.0
+                 data_scientist_interview.txt    0.065706        3.0
+                professor_of_ai_interview.txt    0.060738        4.0
+                            focus_group_1.txt    0.058928        5.0
+                   lorry_driver_interview.txt    0.058909        6.0
+   digital_marketing_specialist_interview.txt    0.055258        7.0
+customer_service_representative_interview.txt    0.053859        8.0
+            electrical_engineer_interview.txt    0.050050        9.0
+  business_intelligence_analyst_interview.txt    0.040528       10.0
+                     no_persona_interview.txt    0.034502       11.0
+      machine_learning_engineer_interview.txt    0.026306       12.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+- AI Ethicist
+
+
+Idea Build-up Ranking:
+                                      Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                    ai_ethicist_interview.txt            0.112044                1.0
+                professor_of_ai_interview.txt            0.108723                2.0
+                   lorry_driver_interview.txt            0.094939                3.0
+                 data_scientist_interview.txt            0.094687                4.0
+            electrical_engineer_interview.txt            0.091563                5.0
+customer_service_representative_interview.txt            0.090822                6.0
+          ai_software_developer_interview.txt            0.089410                7.0
+  business_intelligence_analyst_interview.txt            0.088705                8.0
+   digital_marketing_specialist_interview.txt            0.085149                9.0
+                            focus_group_1.txt            0.078817               10.0
+      machine_learning_engineer_interview.txt            0.072646               11.0
+                     no_persona_interview.txt            0.072490               12.0

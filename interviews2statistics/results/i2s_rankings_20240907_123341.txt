@@ -1,0 +1,18 @@
+I2S Rankings
+
+Tech Score Ranking:
+                    filename  tech_score_mean  Tech_Rank
+             focus_group.txt         0.060226          1
+data_scientist_interview.txt         0.047870          2
+    no_persona_interview.txt         0.041833          3
+
+Maverick Information:
+Maverick Interjection Probability: 0.3
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                    filename  idea_buildup_score_mean  Idea_Buildup_Rank
+             focus_group.txt                 0.055440                  1
+    no_persona_interview.txt                 0.050267                  2
+data_scientist_interview.txt                 0.047798                  3

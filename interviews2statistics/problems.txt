@@ -1,0 +1,32 @@
+Reconsider project "interview2statistics" which needs to be changed
+
+
+- Consider this problem: If more than one iteration specified in the yaml, the data object "all_results" 
+  caputeres only the first iteration. 
+- The reason for this deficit is the following miss-specifiction in main:
+
+all_results = []
+    for filename in interviews:
+        print(f"Processing {filename} ...")
+        file_path = os.path.join(input_directory, filename)
+        with open(file_path, 'r') as file:
+            content = file.read()
+
+        # Extract summary from the file content
+        summary_start = content.find("--- Summary Start (Iteration 1) ---")
+        summary_end = content.find("--- Summary End (Iteration 1) ---")
+        if summary_start != -1 and summary_end != -1:
+            summary = content[summary_start:summary_end]
+        else:
+            print(f"Warning: Could not find summary in {filename}")
+            continue
+
+  Obviously, only the summaries of the first iteration are spotted and assamble. Hence, only summaries of the first iteration are saved into "all_results". Instead of a hard-code "1" a more flexible solution is required. So that summaries of all iterations are saved. 
+
+- This deficitit has consquences for all data objects built up on top of all_results like "df" and the final result file "interviews2statistics_results.csv"
+
+- We need a solution that considers all iterations AND that ceates a mean over all iterations.
+ Consider the case when i>1. 
+Then for p personas and i iterations we would need p*i + p rows in "df" and in "interviews2statistics_results.csv" . The "+p" rows are required because for every persona we then need a row for the averaged scores. Even when i=1,  the number of rows in "df" and in "interviews2statistics_results.csv"  should be p*i =p just to have a consistent approach. 
+
+- Check this processing pipleline Interviews -> all_results -> df -> summary_stats -> "interviews2statistics_results.csv" 

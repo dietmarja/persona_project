@@ -1,0 +1,37 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+                    ai_ethicist_interview.txt    0.090179        1.0
+          ai_software_developer_interview.txt    0.084969        2.0
+                professor_of_ai_interview.txt    0.067125        3.0
+                 data_scientist_interview.txt    0.064589        4.0
+   digital_marketing_specialist_interview.txt    0.063192        5.0
+                            focus_group_1.txt    0.062590        6.0
+                   lorry_driver_interview.txt    0.060338        7.0
+customer_service_representative_interview.txt    0.059863        8.0
+            electrical_engineer_interview.txt    0.053592        9.0
+  business_intelligence_analyst_interview.txt    0.042724       10.0
+      machine_learning_engineer_interview.txt    0.034846       11.0
+                     no_persona_interview.txt    0.023600       12.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.9
+Maverick Personas:
+- Lorry Driver
+
+
+Idea Build-up Ranking:
+                                      Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                    ai_ethicist_interview.txt            0.112044                1.0
+customer_service_representative_interview.txt            0.105310                2.0
+                     no_persona_interview.txt            0.103351                3.0
+                 data_scientist_interview.txt            0.100341                4.0
+            electrical_engineer_interview.txt            0.095826                5.0
+                professor_of_ai_interview.txt            0.093256                6.0
+   digital_marketing_specialist_interview.txt            0.093021                7.0
+      machine_learning_engineer_interview.txt            0.090545                8.0
+                   lorry_driver_interview.txt            0.088297                9.0
+          ai_software_developer_interview.txt            0.085203               10.0
+  business_intelligence_analyst_interview.txt            0.079842               11.0
+                            focus_group_1.txt            0.073910               12.0

@@ -1,0 +1,36 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+                    ai_ethicist_interview.txt    0.084666        1.0
+                professor_of_ai_interview.txt    0.077127        2.0
+          ai_software_developer_interview.txt    0.070649        3.0
+                   lorry_driver_interview.txt    0.060338        4.0
+                            focus_group_1.txt    0.059376        5.0
+            electrical_engineer_interview.txt    0.051696        6.0
+   digital_marketing_specialist_interview.txt    0.051488        7.0
+                 data_scientist_interview.txt    0.049868        8.0
+                     no_persona_interview.txt    0.048375        9.0
+      machine_learning_engineer_interview.txt    0.048194       10.0
+  business_intelligence_analyst_interview.txt    0.042093       11.0
+customer_service_representative_interview.txt    0.039245       12.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.9
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                      Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                 data_scientist_interview.txt            0.099982                1.0
+   digital_marketing_specialist_interview.txt            0.096677                2.0
+      machine_learning_engineer_interview.txt            0.096589                3.0
+                    ai_ethicist_interview.txt            0.089697                4.0
+  business_intelligence_analyst_interview.txt            0.089405                5.0
+                   lorry_driver_interview.txt            0.088297                6.0
+customer_service_representative_interview.txt            0.084261                7.0
+                professor_of_ai_interview.txt            0.080938                8.0
+          ai_software_developer_interview.txt            0.080835                9.0
+            electrical_engineer_interview.txt            0.079626               10.0
+                     no_persona_interview.txt            0.078797               11.0
+                            focus_group_1.txt            0.073046               12.0

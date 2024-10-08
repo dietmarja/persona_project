@@ -1,0 +1,18 @@
+I2S Rankings
+
+Tech Score Ranking:
+                          Persona  Tech_Score  Tech_Rank
+electrical_engineer_interview.txt    0.066348        1.0
+ focus_group_all_participants.txt    0.046425        2.0
+                  focus_group.txt    0.044484        3.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                          Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+electrical_engineer_interview.txt            0.068931                1.0
+ focus_group_all_participants.txt            0.068319                2.0
+                  focus_group.txt            0.059830                3.0

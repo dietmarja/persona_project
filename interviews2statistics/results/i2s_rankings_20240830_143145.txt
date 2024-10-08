@@ -1,0 +1,54 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                                   Persona  Tech_Score  Tech_Rank
+                                 ai_ethicist_interview.txt         0.0        1.0
+                digital_marketing_specialist_interview.txt         0.0        1.0
+                              shop_assistant_interview.txt         0.0        1.0
+                           robotics_engineer_interview.txt         0.0        1.0
+natural_language_processing_(nlp)_specialist_interview.txt         0.0        1.0
+                   machine_learning_engineer_interview.txt         0.0        1.0
+                                lorry_driver_interview.txt         0.0        1.0
+                                    gardener_interview.txt         0.0        1.0
+                                           focus_group.txt         0.0        1.0
+                         electrical_engineer_interview.txt         0.0        1.0
+                              data_scientist_interview.txt         0.0        1.0
+                                ai_professor_interview.txt         0.0        1.0
+                               data_engineer_interview.txt         0.0        1.0
+             customer_service_representative_interview.txt         0.0        1.0
+                    computer_vision_engineer_interview.txt         0.0        1.0
+               business_intelligence_analyst_interview.txt         0.0        1.0
+                            business_analyst_interview.txt         0.0        1.0
+                                     barista_interview.txt         0.0        1.0
+                                   architect_interview.txt         0.0        1.0
+                       ai_software_developer_interview.txt         0.0        1.0
+           software_quality_assurance_tester_interview.txt         0.0        1.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                                   Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                                   architect_interview.txt            0.101754                1.0
+                              shop_assistant_interview.txt            0.094784                2.0
+                       ai_software_developer_interview.txt            0.094429                3.0
+                digital_marketing_specialist_interview.txt            0.094092                4.0
+                            business_analyst_interview.txt            0.092241                5.0
+                                 ai_ethicist_interview.txt            0.091690                6.0
+                         electrical_engineer_interview.txt            0.090886                7.0
+                           robotics_engineer_interview.txt            0.090375                8.0
+           software_quality_assurance_tester_interview.txt            0.089260                9.0
+             customer_service_representative_interview.txt            0.087529               10.0
+               business_intelligence_analyst_interview.txt            0.085887               11.0
+                                lorry_driver_interview.txt            0.085790               12.0
+                                     barista_interview.txt            0.084921               13.0
+                   machine_learning_engineer_interview.txt            0.084891               14.0
+                               data_engineer_interview.txt            0.080706               15.0
+                              data_scientist_interview.txt            0.076558               16.0
+                                ai_professor_interview.txt            0.076196               17.0
+                                    gardener_interview.txt            0.075693               18.0
+                                           focus_group.txt            0.074246               19.0
+natural_language_processing_(nlp)_specialist_interview.txt            0.071379               20.0
+                    computer_vision_engineer_interview.txt            0.069216               21.0

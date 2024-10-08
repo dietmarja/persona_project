@@ -1,0 +1,20 @@
+I2S Rankings
+
+Tech Score Ranking:
+                  filename  tech_score_mean  Tech_Rank
+lorry_driver_interview.txt         0.062346          1
+  no_persona_interview.txt         0.062259          2
+ ai_ethicist_interview.txt         0.055969          3
+           focus_group.txt         0.048872          4
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                  filename  idea_buildup_score_mean  Idea_Buildup_Rank
+           focus_group.txt                 0.093860                  1
+  no_persona_interview.txt                 0.078404                  2
+ ai_ethicist_interview.txt                 0.068622                  3
+lorry_driver_interview.txt                 0.057246                  4

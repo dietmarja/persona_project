@@ -1,0 +1,42 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                          filename  tech_score_mean  Tech_Rank
+     customer_service_representative_interview.txt         0.085676          1
+               professor_of_classics_interview.txt         0.078989          2
+   software_quality_assurance_tester_interview.txt         0.078458          3
+                   robotics_engineer_interview.txt         0.068789          4
+                            gardener_interview.txt         0.068580          5
+                          no_persona_interview.txt         0.068350          6
+                                   focus_group.txt         0.058824          7
+                             barista_interview.txt         0.054344          8
+        digital_marketing_specialist_interview.txt         0.052448          9
+natural_language_processing_engineer_interview.txt         0.050637         10
+                 electrical_engineer_interview.txt         0.048174         11
+                        lorry_driver_interview.txt         0.047331         12
+                      shop_assistant_interview.txt         0.047211         13
+                     fitness_trainer_interview.txt         0.045919         14
+                           architect_interview.txt         0.040687         15
+
+Maverick Information:
+Maverick Interjection Probability: 0.3
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                          filename  idea_buildup_score_mean  Idea_Buildup_Rank
+     customer_service_representative_interview.txt                 0.111821                  1
+                   robotics_engineer_interview.txt                 0.086070                  2
+                            gardener_interview.txt                 0.085722                  3
+                      shop_assistant_interview.txt                 0.083556                  4
+               professor_of_classics_interview.txt                 0.082974                  5
+                             barista_interview.txt                 0.060727                  6
+                          no_persona_interview.txt                 0.058209                  7
+                 electrical_engineer_interview.txt                 0.057689                  8
+                     fitness_trainer_interview.txt                 0.055484                  9
+natural_language_processing_engineer_interview.txt                 0.050488                 10
+        digital_marketing_specialist_interview.txt                 0.048203                 11
+   software_quality_assurance_tester_interview.txt                 0.047244                 12
+                           architect_interview.txt                 0.038015                 13
+                        lorry_driver_interview.txt                 0.015555                 14
+                                   focus_group.txt                 0.000000                 15

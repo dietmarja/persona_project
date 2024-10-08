@@ -1,0 +1,28 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                      Persona  Tech_Score  Tech_Rank
+                professor_of_ai_interview.txt    0.065041        1.0
+   digital_marketing_specialist_interview.txt    0.060850        2.0
+                 shop_assistant_interview.txt    0.060001        3.0
+customer_service_representative_interview.txt    0.048524        4.0
+                   lorry_driver_interview.txt    0.044215        5.0
+            electrical_engineer_interview.txt    0.036806        6.0
+                     no_persona_interview.txt    0.034935        7.0
+  business_intelligence_analyst_interview.txt    0.032234        8.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                      Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+customer_service_representative_interview.txt            0.109558                1.0
+                     no_persona_interview.txt            0.097918                2.0
+   digital_marketing_specialist_interview.txt            0.096503                3.0
+            electrical_engineer_interview.txt            0.096406                4.0
+                 shop_assistant_interview.txt            0.088882                5.0
+                   lorry_driver_interview.txt            0.085010                6.0
+  business_intelligence_analyst_interview.txt            0.082903                7.0
+                professor_of_ai_interview.txt            0.078988                8.0

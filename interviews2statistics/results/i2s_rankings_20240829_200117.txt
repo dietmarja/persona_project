@@ -1,0 +1,36 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                                   Persona  Tech_Score  Tech_Rank
+                                 ai_ethicist_interview.txt    0.077538        1.0
+                       ai_software_developer_interview.txt    0.070330        2.0
+                               data_engineer_interview.txt    0.065064        3.0
+                              data_scientist_interview.txt    0.059014        4.0
+                    computer_vision_engineer_interview.txt    0.056808        5.0
+                                   architect_interview.txt    0.056199        6.0
+                                ai_professor_interview.txt    0.049473        7.0
+                         electrical_engineer_interview.txt    0.049387        8.0
+natural_language_processing_(nlp)_specialist_interview.txt    0.040394        9.0
+               business_intelligence_analyst_interview.txt    0.038261       10.0
+                           robotics_engineer_interview.txt    0.022565       11.0
+                   machine_learning_engineer_interview.txt    0.021793       12.0
+
+Maverick Information:
+Maverick Interjection Probability: 0.99
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                                   Persona  Idea_Buildup_Score  Idea_Buildup_Rank
+                                   architect_interview.txt            0.101754                1.0
+                       ai_software_developer_interview.txt            0.094429                2.0
+                                 ai_ethicist_interview.txt            0.091690                3.0
+                         electrical_engineer_interview.txt            0.090886                4.0
+                           robotics_engineer_interview.txt            0.090375                5.0
+               business_intelligence_analyst_interview.txt            0.085887                6.0
+                   machine_learning_engineer_interview.txt            0.084891                7.0
+                               data_engineer_interview.txt            0.080706                8.0
+                              data_scientist_interview.txt            0.076558                9.0
+                                ai_professor_interview.txt            0.076196               10.0
+natural_language_processing_(nlp)_specialist_interview.txt            0.071379               11.0
+                    computer_vision_engineer_interview.txt            0.069216               12.0

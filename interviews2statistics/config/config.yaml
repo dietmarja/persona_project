@@ -1,0 +1,30 @@
+# config file for interviews2statistics
+# /config/config.yaml
+input:
+  input_directory: "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/results/interviews" 
+  main_file: "interviews2statistics_results.csv"
+  main_file: "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/results/interviews/interviews2statistics_results.csv" 
+  persona_pool_file: "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/inputs/persona/persona_pool.csv"
+output:
+  stat_results_directory: "/Users/dietmar/Dropbox/PycharmProjects/interviews2statistics/results"
+  charts_directory: "/Users/dietmar/Dropbox/PycharmProjects/interviews2statistics/results/charts"
+  summary_file: "comprehensive_analysis_summary.csv"
+  bar_chart_file: "tech_score_chart.png"
+
+analysis:
+  count_multiple_keywords: false  # Set to true if you want to count multiple occurrences of keywords
+  scores:
+    - "Tech_Score"
+    - "Ethics_Score"
+    - "Edu_Score"
+    - "Idea_Buildup_Score"
+
+maverick:
+  interjection_probability: 0.1  # Or whatever probability you want to set
+
+# Get the maverick interjection probability to write it into the result file
+maverick_config_path: "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/config/config.yaml"
+
+
+# Note that interview transcript are read from input_directory. 
+# Moreover, the main file is both written into and read from this directory

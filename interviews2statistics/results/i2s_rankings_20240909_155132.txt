@@ -1,0 +1,56 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                          filename  tech_score_mean  Tech_Rank
+            computer_vision_engineer_interview.txt         0.036363          1
+                        ai_professor_interview.txt         0.034190          2
+natural_language_processing_engineer_interview.txt         0.031450          3
+                   robotics_engineer_interview.txt         0.030035          4
+                       data_engineer_interview.txt         0.029360          5
+               ai_software_developer_interview.txt         0.029080          6
+                      data_scientist_interview.txt         0.027374          7
+           machine_learning_engineer_interview.txt         0.026931          8
+                 electrical_engineer_interview.txt         0.024507          9
+   software_quality_assurance_tester_interview.txt         0.024195         10
+       business_intelligence_analyst_interview.txt         0.023458         11
+                    business_analyst_interview.txt         0.023079         12
+                           architect_interview.txt         0.022880         13
+     customer_service_representative_interview.txt         0.021330         14
+                          no_persona_interview.txt         0.020793         15
+                      shop_assistant_interview.txt         0.019921         16
+                             barista_interview.txt         0.018610         17
+                         ai_ethicist_interview.txt         0.018077         18
+               professor_of_classics_interview.txt         0.017795         19
+                            gardener_interview.txt         0.017460         20
+                        lorry_driver_interview.txt         0.017124         21
+        digital_marketing_specialist_interview.txt         0.016228         22
+
+Maverick Information:
+Maverick Interjection Probability: 0.3
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                          filename  idea_buildup_score_mean  Idea_Buildup_Rank
+                         ai_ethicist_interview.txt                 0.104438                  1
+     customer_service_representative_interview.txt                 0.103236                  2
+                           architect_interview.txt                 0.100778                  3
+                       data_engineer_interview.txt                 0.100028                  4
+           machine_learning_engineer_interview.txt                 0.099379                  5
+        digital_marketing_specialist_interview.txt                 0.099115                  6
+                      data_scientist_interview.txt                 0.096018                  7
+               ai_software_developer_interview.txt                 0.093115                  8
+       business_intelligence_analyst_interview.txt                 0.091325                  9
+                      shop_assistant_interview.txt                 0.088656                 10
+                        lorry_driver_interview.txt                 0.087754                 11
+                    business_analyst_interview.txt                 0.087146                 12
+natural_language_processing_engineer_interview.txt                 0.084248                 13
+               professor_of_classics_interview.txt                 0.082411                 14
+                        ai_professor_interview.txt                 0.081655                 15
+                            gardener_interview.txt                 0.077357                 16
+                          no_persona_interview.txt                 0.077339                 17
+                   robotics_engineer_interview.txt                 0.076919                 18
+   software_quality_assurance_tester_interview.txt                 0.075363                 19
+                             barista_interview.txt                 0.073543                 20
+            computer_vision_engineer_interview.txt                 0.072018                 21
+                 electrical_engineer_interview.txt                 0.064309                 22

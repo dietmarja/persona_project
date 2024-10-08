@@ -1,0 +1,78 @@
+I2S Rankings
+
+Tech Score Ranking:
+                                          filename  tech_score_mean  Tech_Rank
+                         ai_ethicist_interview.txt              0.0          1
+                 electrical_engineer_interview.txt              0.0          2
+               shop_assistant_interview_all_NA.txt              0.0          3
+                      shop_assistant_interview.txt              0.0          4
+                   robotics_engineer_interview.txt              0.0          5
+            robotics_engineer_all_NA_interview.txt              0.0          6
+               professor_of_classics_interview.txt              0.0          7
+        professor_of_classics_all_NA_interview.txt              0.0          8
+                             plumber_interview.txt              0.0          9
+                          no_persona_interview.txt              0.0         10
+natural_language_processing_engineer_interview.txt              0.0         11
+           machine_learning_engineer_interview.txt              0.0         12
+                        lorry_driver_interview.txt              0.0         13
+                            gardener_interview.txt              0.0         14
+                                   focus_group.txt              0.0         15
+                     fitness_trainer_interview.txt              0.0         16
+        digital_marketing_specialist_interview.txt              0.0         17
+                        ai_professor_interview.txt              0.0         18
+                      data_scientist_interview.txt              0.0         19
+                data_engineer_interview_all_NA.txt              0.0         20
+                       data_engineer_interview.txt              0.0         21
+     customer_service_representative_interview.txt              0.0         22
+                     cto_of_a_fintec_interview.txt              0.0         23
+             cto_of_a_fintec__all_NA_interview.txt              0.0         24
+            computer_vision_engineer_interview.txt              0.0         25
+                    carpenter_interview_all_NA.txt              0.0         26
+                           carpenter_interview.txt              0.0         27
+       business_intelligence_analyst_interview.txt              0.0         28
+                    business_analyst_interview.txt              0.0         29
+                             barista_interview.txt              0.0         30
+                           architect_interview.txt              0.0         31
+               ai_software_developer_interview.txt              0.0         32
+   software_quality_assurance_tester_interview.txt              0.0         33
+
+Maverick Information:
+Maverick Interjection Probability: 0.1
+Maverick Personas:
+
+
+Idea Build-up Ranking:
+                                          filename  idea_buildup_score_mean  Idea_Buildup_Rank
+        professor_of_classics_all_NA_interview.txt                 0.107691                  1
+           machine_learning_engineer_interview.txt                 0.101709                  2
+     customer_service_representative_interview.txt                 0.098635                  3
+                     fitness_trainer_interview.txt                 0.092065                  4
+                            gardener_interview.txt                 0.089838                  5
+                           architect_interview.txt                 0.081384                  6
+                      shop_assistant_interview.txt                 0.080844                  7
+                             barista_interview.txt                 0.071773                  8
+                    business_analyst_interview.txt                 0.069487                  9
+                        lorry_driver_interview.txt                 0.069269                 10
+                             plumber_interview.txt                 0.067448                 11
+                                   focus_group.txt                 0.066271                 12
+                data_engineer_interview_all_NA.txt                 0.064406                 13
+                    carpenter_interview_all_NA.txt                 0.063134                 14
+                           carpenter_interview.txt                 0.062910                 15
+                 electrical_engineer_interview.txt                 0.061375                 16
+               professor_of_classics_interview.txt                 0.060311                 17
+               shop_assistant_interview_all_NA.txt                 0.059172                 18
+            computer_vision_engineer_interview.txt                 0.058910                 19
+                          no_persona_interview.txt                 0.057824                 20
+natural_language_processing_engineer_interview.txt                 0.055897                 21
+                        ai_professor_interview.txt                 0.050165                 22
+               ai_software_developer_interview.txt                 0.050036                 23
+                   robotics_engineer_interview.txt                 0.047229                 24
+        digital_marketing_specialist_interview.txt                 0.043508                 25
+                       data_engineer_interview.txt                 0.040375                 26
+                     cto_of_a_fintec_interview.txt                 0.035447                 27
+                      data_scientist_interview.txt                 0.034626                 28
+            robotics_engineer_all_NA_interview.txt                 0.034620                 29
+       business_intelligence_analyst_interview.txt                 0.033184                 30
+             cto_of_a_fintec__all_NA_interview.txt                 0.025051                 31
+   software_quality_assurance_tester_interview.txt                 0.023895                 32
+                         ai_ethicist_interview.txt                 0.019241                 33
