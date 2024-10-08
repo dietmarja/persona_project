@@ -4,14 +4,13 @@ The Python program in the repository "person_project" provides tools or modules 
 each of the modules addresses a particular aspect, e.g., generating interviews or focus groups, while otherwise maintaining a structure similar to the other modules. 
 For instance, each module can be configured, it started via a bash script and has a module specific readme file. 
 
-Each module is run in a similar way. The example below illustrates how this is done for the module persona2interviews:< br / > 
+Each module is run in a similar way. The example below illustrates how this is done for the module persona2interviews:  
 
 Go to the root folder of the module like so ... < br / > 
-cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews < br / > 
+cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews  
 
-and run the script which is here run with the pipe tee commmand to capture the terminal output in a file. < br / > 
-./code/run_persona2interviews.sh | tee terminal-output.txt < br / > 
-
+and run the script which is here run with the pipe tee commmand to capture the terminal output in a file.  
+./code/run_persona2interviews.sh | tee terminal-output.txt  
 
 
 ## persona2interviews
