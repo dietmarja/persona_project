@@ -132,6 +132,10 @@ To run an analysis using the interviews2token_distribution project, you would ty
 - Interpret the results
 
 ## Divergence Matrix
+The "fingerprint" of each person can be expressed via its token distribution. 
+To analyse similariteis and differences between persona we calculate diveregence scores which can be systematically assembled via a divergence matrix. 
+Hence, adivergence matrix is key for a token-distribution analysis of persona. 
+
 Next ist a description how a pairwise divergence matrix for given distributions is created. 
 The main function for this task is create_pairwise_divergence_matrix(). It takes two parameters:
 
@@ -147,11 +151,11 @@ It then creates an empty square matrix (as a numpy array) with dimensions equal 
     divergence_matrix = np.zeros((n, n))
 
 The function then calculates the divergence between each pair of distributions:  
-    for i in range(n):
+    `for i in range(n):
     for j in range(i+1, n):
         div = divergence_func(distributions[i], distributions[j])
         divergence_matrix[i, j] = div
-        divergence_matrix[j, i] = div
+        divergence_matrix[j, i] = div`
 
 Note that this only calculates the upper triangle of the matrix and then mirrors it to the lower triangle, as the divergence is symmetric.
 Finally, it returns the divergence matrix as a pandas DataFrame:
@@ -160,14 +164,14 @@ Finally, it returns the divergence matrix as a pandas DataFrame:
 To use this in the context of the whole project:  
 
 The process_distributions() function in the same file is likely the main entry point. It takes a DataFrame of token distributions and processes them:  
-    def process_distributions(token_df, n, divergence_type='js', v=3, w=3):
+    `def process_distributions(token_df, n, divergence_type='js', v=3, w=3):`
 
 This function first extracts individual distributions from the input DataFrame:  
-    distributions = [token_df[token_df['Interview'] == i].set_index('Token')['Count'] 
-                     for i in range(1, n+1)]
+    `distributions = [token_df[token_df['Interview'] == i].set_index('Token')['Count'] 
+                     for i in range(1, n+1)]`
 
 It then calls create_pairwise_divergence_matrix() to create the divergence matrix:  
-    divergence_matrix = create_pairwise_divergence_matrix(distributions, divergence_type)
+    `divergence_matrix = create_pairwise_divergence_matrix(distributions, divergence_type)`
 
 After creating the matrix, it finds the closest and farthest distribution pairs using another function, find_closest_and_farthest_distributions().
 The function returns the divergence matrix along with the closest and farthest pairs.
@@ -179,7 +183,7 @@ To incorporate this into your analysis:
 3. Use the returned divergence matrix for further analysis or visualization.
 
 For example:
-    from sub.distribution_analysis import process_distributions
+    `from sub.distribution_analysis import process_distributions
     # Assuming token_df is your prepared DataFrame
     n_distributions = 10  # number of distributions to process
     divergence_type = 'js'  # or 'kl'
@@ -188,8 +192,7 @@ For example:
 
 divergence_matrix, closest_pairs, farthest_pairs = process_distributions(
     token_df, n_distributions, divergence_type, v_closest, w_farthest
-)
-
+)`
 # Now you can use divergence_matrix, closest_pairs, and farthest_pairs in your analysis
 This process allows you to quantify and visualize the similarities and differences between multiple token distributions in your interview data.
 
