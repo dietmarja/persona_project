@@ -10,6 +10,14 @@ configure such that it runs either 1:1 Interviews or 1:1 interviews. At the mome
 
 persona2interviews
 ### persona2interviews
+
+### Running the application
+Go to the root folder of the module lik so ...
+
+cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews/
+
+and run the script
+
 ./code/run_persona2interviews.sh | tee terminal-output.txt
 
 ### interviews2statistics
