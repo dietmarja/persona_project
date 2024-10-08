@@ -12,6 +12,10 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize  
 from nltk.stem import WordNetLemmatizer
+from dotenv import load_dotenv
+load_dotenv()
+
+
 
 from code.token_analysis.token_distribution_analyzer import calculate_entropy, compare_personas
 from code.token_analysis.token_visualization import plot_token_distribution, plot_persona_comparison
@@ -95,7 +99,6 @@ Personas:
             header += f"Experience: {persona.get('years_of_coding_experience', 'Not specified')})\n"
         return header    
 
-
         
     def setup_logging(self):
         logging.basicConfig(filename=self.config['logging']['file'],
@@ -108,8 +111,7 @@ Personas:
         """
         Setup the OpenAI API client using the API key from the environment variable.
         """
-        #api_key = os.getenv('OPENAI_API_KEY')
-        api_key = "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"
+        api_key = os.getenv('OPENAI_API_KEY')
 
         if not api_key:
             raise ValueError("OpenAI API key not found in environment variables.")
