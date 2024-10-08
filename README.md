@@ -2,7 +2,7 @@
 The person project seeks to find out whether and under what conditions, a persona can outperform the LLM it is derived from. 
 The Python program in the repository "person_project" provides tools or modules used to achieve this goal. Allocated to a subfolder, 
 each of the modules addresses a particular aspect, e.g., generating interviews or focus groups, while otherwise maintaining a structure similar to the other modules. 
-For instance, each module can be configured, it started via a bash script and has a module specific readme file. 
+For instance, each module is started via a bash script, is configurable and has a module-specific readme file. 
 
 Each module is run in a similar way. The example below illustrates how this is done for the module persona2interviews:  
 
