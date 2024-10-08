@@ -6,11 +6,11 @@ For instance, each module can be configured, it started via a bash script and ha
 
 Each module is run in a similar way. The example below illustrates how this is done for the module persona2interviews:< br / > 
 
-Go to the root folder of the module like so ...< br / > 
-cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews/< br / > 
+Go to the root folder of the module like so ... < br / > 
+cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews < br / > 
 
 and run the script which is here run with the pipe tee commmand to capture the terminal output in a file. < br / > 
-./code/run_persona2interviews.sh | tee terminal-output.txt< br / > 
+./code/run_persona2interviews.sh | tee terminal-output.txt < br / > 
 
 
 
