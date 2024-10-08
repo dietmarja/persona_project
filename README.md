@@ -9,7 +9,7 @@ This is the central module that sets the stage by turning person description int
 configure such that it runs either 1:1 Interviews or 1:1 interviews. At the moment, only persona2interviews is available via GitHub. 
 
 ### Running the application
-Go to the root folder of the module lik so ...
+Go to the root folder of the module like so ...
 
 cd /Users/dietmar/Dropbox/PycharmProjects/persona_project/persona2interviews/
 
@@ -22,7 +22,7 @@ This module builds up on the transcripts from interviews or focus groups generat
 from them. They include technological scores, education scores and ethical scores. 
 
 
-./code/run_interviews2statistics.sh | tee t.txt
+./code/run_interviews2statistics.sh | tee terminal-output.txt
 
 ### interviews2token_distribution
 Running multiple interviews with a persona and recording the distribution of words or tokens serves as an empirical proxy for the model's output distribution under specific conditions (i.e., the persona). The module interviews2token_distribution computes this proxy. 
