@@ -1,0 +1,60 @@
+# config.yaml for interviews2token_distribution
+
+# Input files and corresponding iterations
+input_files:
+#  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_5.csv'
+#    iterations: 5
+#  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_20.csv'
+#    iterations: 20
+#  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_80.csv'
+#    iterations: 80
+#  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_100.csv'
+#    iterations: 100
+  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_persona_pool100_5.csv'
+    iterations: 5  # Adjust this number based on your data
+  - file: '/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/outputs/token_tracking/token_distribution_persona_pool100_10.csv'
+    iterations: 10  # Adjust this number based on your data
+
+
+# Specify which charts should be calculated (both KL and JS divergence)
+divergence_calculations:
+  # Compare interview and focus group data
+  - type: "interview_focus_group"
+  
+  # Compare personas to no-persona for interview data
+  - type: "persona_nonpersona"
+    origin: "interview"
+  
+  # Compare personas to no-persona for focus group data
+  - type: "persona_nonpersona"
+    origin: "focus_group"
+  
+  # Compare all personas to reference distribution for interview data
+  - type: "reference"
+    origin: "interview"
+  
+  # Compare all personas to reference distribution for focus group data
+  - type: "reference"
+    origin: "focus_group"
+
+
+# Distribution Analysis
+n_distributions: 5  # Number of distributions to analyze
+divergence_type: 'js'  # 'js' for Jensen-Shannon, 'kl' for Kullback-Leibler
+v_closest: 3  # Number of closest pairs to find
+w_farthest: 3  # 
+
+
+
+# Output paths
+output_dir: '/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output'
+kl_divergence_file: '/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output/kl_divergence_matrix.csv'
+js_divergence_file: '/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output/js_divergence_matrix.csv'
+png_output_dir: '/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output/plots'
+
+# Chart output paths (these will be used as base names, actual filenames will include calculation type and origin)
+kl_divergence_line_chart: "/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output/plots/kl_divergence_line_chart.png"
+js_divergence_line_chart: "/Users/dietmar/Dropbox/PycharmProjects/interviews2token_distribution/output/plots/js_divergence_line_chart.png"
+
+# Additional configuration options
+top_n_tokens: 1000  # Number of top tokens to consider for TF-IDF
