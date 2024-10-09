@@ -1,13 +1,7 @@
 # interviews2token_distribution
 
 ## Overview
-The "fingerprint" of each persona can be expressed via its token distribution. 
-To analyse similarities and differences between $n$ persona we calculate diveregence 
-scores which can be systematically assembled via a $n \times n$ divergence matrix.  
-
-The interviews2token_distribution module processes interview data to generate and analyze token 
-distributions per persona. It calculates distance and similarity metrics (KL Divergence and Cosine Similarity) 
-between token distributions and visualizes them for comparison.
+The interviews2token_distribution application processes interview data to generate and analyze token distributions per persona. It calculates distance and similarity metrics (KL Divergence and Cosine Similarity) between token distributions and visualizes them for comparison.
 
 ## Key Features
 - Processes token distribution data from interviews
@@ -199,22 +193,7 @@ For example:
 divergence_matrix, closest_pairs, farthest_pairs = process_distributions(
     token_df, n_distributions, divergence_type, v_closest, w_farthest
 )`
-
-Now you can use divergence_matrix, closest_pairs, and farthest_pairs in your analysis
+# Now you can use divergence_matrix, closest_pairs, and farthest_pairs in your analysis
 This process allows you to quantify and visualize the similarities and differences between multiple token distributions in your interview data.
-
-
-## Further Developments
-To analyse the persona superiority effect we need to examine how close performance scores, e.g., the tech score, are associated with a token distributions. 
-Given $n$ persona and the token distributions we address this goal by 
-- Analysing pairwise divergence scores
-- Setting up a $n \times n$ divergence matrix
-- Transforming the divergence matrix into a similarity matrix
-- Centering the matrix by subtracting the mean of each row or column.
-- Running a PCA over this matrix
-- Analysing correlations beteen persona performance scores and dimensions found via PCA
-
-
-
 
 
