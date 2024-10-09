@@ -1,7 +1,13 @@
 # interviews2token_distribution
 
 ## Overview
-The interviews2token_distribution application processes interview data to generate and analyze token distributions per persona. It calculates distance and similarity metrics (KL Divergence and Cosine Similarity) between token distributions and visualizes them for comparison.
+The "fingerprint" of each persona can be expressed via its token distribution. 
+To analyse similarities and differences between $n$ persona we calculate diveregence 
+scores which can be systematically assembled via a $n \times n$ divergence matrix.  
+
+The interviews2token_distribution module processes interview data to generate and analyze token 
+distributions per persona. It calculates distance and similarity metrics (KL Divergence and Cosine Similarity) 
+between token distributions and visualizes them for comparison.
 
 ## Key Features
 - Processes token distribution data from interviews
