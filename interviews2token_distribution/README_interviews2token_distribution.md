@@ -193,7 +193,8 @@ For example:
 divergence_matrix, closest_pairs, farthest_pairs = process_distributions(
     token_df, n_distributions, divergence_type, v_closest, w_farthest
 )`
-# Now you can use divergence_matrix, closest_pairs, and farthest_pairs in your analysis
+
+Now you can use divergence_matrix, closest_pairs, and farthest_pairs in your analysis
 This process allows you to quantify and visualize the similarities and differences between multiple token distributions in your interview data.
 
 
