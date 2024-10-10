@@ -6,7 +6,7 @@ simulation:
     role: "moderator"
   participant_criteria:
     role: "participant"
-  iterations: 1
+  iterations: 5
 #  last_words_used: 1000  # Number of last words to use for token analysis
   last_words_used: -1  # Use _all_ words, no limit
 
