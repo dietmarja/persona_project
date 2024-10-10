@@ -1,8 +1,7 @@
 # Simulation settings
 simulation:
   persona_files:
-    - "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/inputs/persona/persona_variations1.csv"
-#   - "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/inputs/persona/NEW_100.csv"
+    - "/Users/dietmar/Dropbox/PycharmProjects/persona2interviews/data/inputs/persona//US_News_100_Jobs.csv"
   moderator_criteria:
     role: "moderator"
   participant_criteria:
